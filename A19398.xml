@@ -1,0 +1,752 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[A dialogue of diuerse quections [sic] demanded of the children to their father very necessary, and profitable both for children, and parents, masters and seruants.]</title>
+            <author>Cotes, William, b. ca. 1560.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1585</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 89 KB of XML-encoded text transcribed from 38 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A19398</idno>
+            <idno type="STC">STC 5829</idno>
+            <idno type="STC">ESTC S111175</idno>
+            <idno type="EEBO-CITATION">99846574</idno>
+            <idno type="PROQUEST">99846574</idno>
+            <idno type="VID">11553</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A19398)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 11553)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 210:09)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>[A dialogue of diuerse quections [sic] demanded of the children to their father very necessary, and profitable both for children, and parents, masters and seruants.]</title>
+                  <author>Cotes, William, b. ca. 1560.</author>
+               </titleStmt>
+               <extent>[76] p.   </extent>
+               <publicationStmt>
+                  <publisher>By Iohn Charlewood, dwelling in Barbican, at the signe of the halfe Eagle and the keie,</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>[1585]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption title (leaf A6 verso). Imprint from colophon. Publication date from STC.</note>
+                  <note>Signatures: A-D E⁶.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+                  <note>Imperfect; lacks title page.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catechisms, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="dedication">
+            <pb facs="tcp:11553:1"/>
+            <pb facs="tcp:11553:1"/>
+            <head>To the right Worſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ful <hi>and his eſpeciall friendes M. G.</hi> Stock meede, <hi>Citizen and Grocer of Lo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> and M<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>chant Aduenturer. And alſo, vnto <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>other approued friende M.</hi> Iohn Fa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ter Gent<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Willam Cotes, wiſheth <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> health, fel<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ood proſ<g ref="char:EOLhyphen"/>ſperitie now al<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Hen I reme<g ref="char:cmbAbbrStroke">̄</g>bred what great ſin it is to be vn<g ref="char:EOLunhyphen"/>gratefull, I was angry with my ſelfe, to thinke (what a wretch I am) that haue had neither grace, abilitie, power, nor oportunitie, to shewe ſome duetifull token of thankefulneſſe vnto you mine <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſpeciall faithfull friendes. Theſe are therefore moſt humbly and hartily to craue par<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n of you, for this mine obliuiou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> groſſe ing <gap reason="illegible" resp="#KEYERS" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>neſſe, hauing found and felt both of you, right good and bountifull vnto me your dayly Orator: but being perſwaded, that a faithfull liberall man is alwayes poſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſſed with charitie, &amp; ſuch neuer thin<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th any euill, and alſo with the mo<g ref="char:EOLunhyphen"/>b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>,
+<pb facs="tcp:11553:2"/> royall shining pearle and preti<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> one liberalitie: which euer ouer<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>neth and diſgraceth pride and pro<g ref="char:EOLhyphen"/>digalitie, neuer expecteth either glori<g ref="char:EOLhyphen"/>ous praiſe or recompence, for he is no<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hing kinne to the riche miſerly coue<g ref="char:EOLhyphen"/>tous carle Naball. And becauſe you shal <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot thinke that I am ſufficed with the dayly remembrance of you in my pray<g ref="char:EOLhyphen"/>ers: I haue preſumed to dedicate vnto you this my rude vnlearned labour. Yet hoping very profitable both for parentes and children, maſters and ſeruauntes, dayly to acquaint the<g ref="char:cmbAbbrStroke">̄</g> in the principles of the Chriſtia<g ref="char:cmbAbbrStroke">̄</g> faith, &amp; alſo from proph<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ning of the Lords day: And alſo keepe them in true feare and obedience, with<g ref="char:EOLhyphen"/>out the which it is impoſsible to pleaſe God, for miſerable and moſt vnhappie <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s the houshold or family, when the ma<g ref="char:EOLhyphen"/>ſter and parents are not able to teache <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heir children and ſeruants: to reſolue them in the principles of the Chriſtian <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aith. For ſuch (ſayeth the holy Ghoſt) <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the mouth of the Prophet Dauid, ar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:11553:2"/> no better then horſe and Mule<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. And the holy Apoſtle S. Paul alſo affirmet<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them to be worſe then Infidels, for the Infidels will prouide carefully for car<g ref="char:EOLhyphen"/>nall prouiſion for their owne housholdes and families. So that thoſe Chriſtians that careth not to be furnished with ſpirituall foode, for their children and families are worſe then the Infidels, and ſuch loueth their beaſtes as well as they doo their children and families, for they will carefully prouide for their pampering to doo their buſineſſe. Yea ſuch Atheistes and Epicures there are too too many in theſe dayes, yea belly Gods, whoſe kitchin is their Church &amp; belly their God, and glory end with shame and confuſion, but God conuert them if it be his will, for ſuch doo neuer any good to a poore Chriſtian, except it be either for his glory, pleaſure or pro<g ref="char:EOLhyphen"/>fite, or elſe to win credite among Chri<g ref="char:EOLhyphen"/>ſtians, for their faith and charitie is ſoone cold and froſen. Such the Prea<g ref="char:EOLhyphen"/>chers terme winter Proteſtants, for in
+<pb facs="tcp:11553:3"/> the ſommer the pleaſures of this worlde and the loue of the ſame, carrieth them farre from flocking to the Lectures, as they doo in the winter to ſaue their fire and candle, or elſe to keepe their cre<g ref="char:EOLhyphen"/>dite. But the almightie that made the heart of man, ſitteth and ſeeth their hi<g ref="char:EOLhyphen"/>pocriſie, and will iudge if they repent not, vnto whom I commend both you and all yours this 20. of Iune 1585. beſeeching the ſame almightie to in<g ref="char:EOLhyphen"/>creaſe your faith health and pro<g ref="char:EOLhyphen"/>ſperitie vnto euerlaſting felicitie. Amen.</p>
+            <closer>
+               <signed>
+                  <hi>Your humble Orator,</hi> VVilliam Cotes.</signed>
+            </closer>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:11553:3"/>
+            <head>¶ Vnto the humble and <hi>and ſimple ſchollers in Chriſtes ſchoole.</hi> I a poore ſcholler and the moſt ſim<g ref="char:EOLhyphen"/>pleſt, <hi>ſendeth theſe my humble and faithfull ſalutations, as followeth.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg>F the holy Prophet (of our God) King Dauid coulde ſay,<note place="margin">Pſal. 119</note> that trembling and feare was come on him, becauſe the wicked did ſet light the law of God. Oh what feare &amp; trembling ought now to be in theſe our laſt dayes, &amp; daungerous times, that fro<g ref="char:cmbAbbrStroke">̄</g> the peſſant vnto the Prophet, all, (Oh almoſt all) are become either Atheiſtes, Papiſts, Epicures, belly goddes, or elſe bee ſettled in that peſtilent chayre of ſcorners, deriders, dehorters or daunters of ſuch as eyther profeſſe, teache, or preach the trueth. But if either the lawe of God were feared, or our faith in Ie<g ref="char:EOLhyphen"/>ſus Chriſt throughly grounded, or his holy worde or Goſpell embraced, or prayers to God pearced, or loue among brethren practiſed, or Chriſt and his preachers any thing eſteemed, then ſhould not our Prince, peace, &amp; coun<g ref="char:EOLhyphen"/>trey
+<pb facs="tcp:11553:4"/> bee cominazed or threatned, nei<g ref="char:EOLhyphen"/>ther wee that liue in theſe daungerous dayes be ſo much louers of our ſelues, yea onely ſelfe louers, and care neither for Gods law, beleeue Chriſtes Goſpell, prayer, Prince, Countrey, brethren, Kindred, Councell, Cominations nor threatnings from the almightie. Who woulde not therefore nowe feare, yea tremble, quiuer, &amp; roare for very griefe of hart, to ſee thoſe that ſeme to be gods children, to lick of the butter fro<g ref="char:cmbAbbrStroke">̄</g> Gods word, and caſt the bread vnto the dogs, I meane feede the<g ref="char:cmbAbbrStroke">̄</g>ſelues with the fleece, and caſt the holy worde at their tayles, or giue the fleece vnto ſuch dogs that can not barke, and the holy bread vnto ſuch that cannot tell howe to breake it, nor to whom to giue it, and therefore they feede themſelues and ſterue Gods children. If a lord or king exalt a poore man and make him his ſteward and put him in credite &amp; truſt with his treaſure, and then commaund him vpon paine of his high diſpleaſure, dayly to beſtow it on his owne children his heires kings and princes: If then this exalted ſte<g ref="char:EOLhyphen"/>ward, keepe that treaſure and portion
+<pb facs="tcp:11553:4"/> vnto himſelfe, and vſe it at his owne pleaſure, and ſterue the young kings &amp; princes. Will not (thinke you) this lord and King when he ſeeth his ſteward hath ſet ſo light his ſtraight charge and commaundement: take this ſteward &amp; caſt him in his wrath into priſon, and there let him perish without either pit<g ref="char:EOLhyphen"/>tie or compaſsion. Yes verily. Euen ſo will our Lord and Sauiour Ieſus Chriſt, the King of kings, and Lorde of lordes deale with all ſuch ſtewardes that hee hath giuen any portion vnto, in this world, from the higheſt vnto the low<g ref="char:EOLhyphen"/>eſt, if they vſe it at their owne will, but eſpecially vnto al thoſe, whom he hath giuen that excellent treaſure his holy worde to diſtribute the bread of life, which licke of that butter and caſt the holy bread vnto dogges: and ſo pro<g ref="char:EOLhyphen"/>uoke our good God in his wrath to take away from vs the ſweete bread of life, the fineſt of the crop, and giue vs in his wrath the courſe, olde, and ſower bread, that papiſticall ſower, rotten lea<g ref="char:EOLhyphen"/>uen of the phariſies, fit for dogges and beaſtes of this word, but yee beloued let vs drop downe like water, &amp; patience<g ref="char:EOLhyphen"/>ly
+<pb facs="tcp:11553:5"/> abyde our good Gods leaſure, vntill he hath tried vs in this his fornace, vnto good and perfit gold. For he hath pro<g ref="char:EOLhyphen"/>miſed that he will neuer forſake his lit<g ref="char:EOLhyphen"/>tle worme Iacob, &amp; wil alſo remember poore Ioſeph, for the more miſery that gods childre<g ref="char:cmbAbbrStroke">̄</g> hath, the nerer is their ioy. As for example, the more was Caynes crueltie, the nearer was Abels ioy. The more Noe was ſcorned, the ſooner by the deluge he was deliuered. The more that Lot was threatned, the ſooner hee was reſcued. The more that Ioſeph was impriſoned, the ſooner to a kingdome he was exalted. The more Moſes &amp; the children were perplexed, the ſooner the red ſea gaue place for their deliuerance. The more bitterer was Chriſts paſsion, the ſweeter and firmer was our ſaluati<g ref="char:EOLhyphen"/>on. Therefore to conclude he that will raigne with Chriſt, muſt ſuffer with Chriſt, for by and through many tribu<g ref="char:EOLhyphen"/>lations, wee muſt enter into the king<g ref="char:EOLhyphen"/>dome of heauen. To the which God of his mercy for Chriſtes ſake bring vs all. Amen.</p>
+         </div>
+         <div type="prayer">
+            <pb facs="tcp:11553:5"/>
+            <head>A prayer of the Author of the Booke.</head>
+            <p>
+               <hi>O</hi> Lord God father of my Lord and Sauiour Ieſus Chriſt, who pre<g ref="char:EOLhyphen"/>ſerueth al men by the grace and gift of thy holy ſpirit, giue mee grace (O mercifull father) from the bot<g ref="char:EOLhyphen"/>tome of my hart, to looke vnto the gree<g ref="char:EOLhyphen"/>uouſneſſe of my owne ſinne, which euer condemneth me before thy Maieſtie, &amp; y<hi rend="sup">t</hi> I may not (of my ſelfe) preſume to in<g ref="char:EOLhyphen"/>ſtruct others, and forget to examine my ſelfe, vnto ame<g ref="char:cmbAbbrStroke">̄</g>dment of my life, &amp; then learne to inſtruct other in thy lawe, ac<g ref="char:EOLhyphen"/>cording vnto thy will, and my bounden duetie, becauſe thou haſt commaunded in thy holy word, that after thou haſt in<g ref="char:EOLhyphen"/>ſtructed vs, we ſhoulde inſtruct others, and not hide the tallent which is giuen vs, nor yet quench thy holy ſpirit in vs. Graunt this (O moſt mercifull father) for thy ſonnes ſake our onely Lord and Sauiour Ieſus Chriſt to whome be all honour and glory for e<g ref="char:EOLhyphen"/>uer. Amen.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:11553:6"/>
+            <head>¶ A Dialogue of diuerſe <hi>Quections demanded of the children</hi> to their father very neceſſary, and <hi>profitable both for children, and</hi> pa<g ref="char:EOLhyphen"/>rents, maſters and ſeruants.</head>
+            <sp>
+               <speaker>The youngest ſonnes Question.</speaker>
+               <p>
+                  <seg rend="decorInit">A</seg>Fter that one of my Children had read a Chapter vnto me at ſupper, out of the Actes of the Apoſtles, my youngeſt ſonne after ſup<g ref="char:EOLhyphen"/>per ſitting by the fire, asked this queſti<g ref="char:EOLhyphen"/>on, father (ſayth he) what is God?</p>
+            </sp>
+            <sp>
+               <speaker>The fathers Anſwere.</speaker>
+               <p>My ſonne, all y<hi rend="sup">e</hi> wiſeſt Philoſophers y<hi rend="sup">t</hi> euer were, could neuer yet co<g ref="char:cmbAbbrStroke">̄</g>prehend or reſolue this queſtion, the cauſe was, they neuer ſearched to know him by his holy word, but by their owne naturall wiſe<g ref="char:EOLhyphen"/>dome, by which wiſedome, it is vnpoſſi<g ref="char:EOLhyphen"/>ble to pleaſe God, or know him, for God hath reuealed himſelfe vnto vs in his holy word although S. Paul ſayth, God hath reuealed himſelfe vnto vs by his creatures, which are the heauens and earth, and all things therein contayned. By which they knowe there is a God, but yet neither Philoſopher, nor any o<g ref="char:EOLhyphen"/>ther can tel what God is, but by his holy
+<pb facs="tcp:11553:6"/> word. In which he reuealeth himſelfe vnto vs, what he hath doone for vs, and howe he hath ſo loued vs before wée were, that he hath created all things for vs, &amp; hath alſo giuen vs his deare &amp; only ſonne Ieſus Chriſt, who beyng verie God equall with his father, came downe from heauen, and diſdayned not the Vir<g ref="char:EOLhyphen"/>gins wombe, and there tooke our nature on him and was made man in all points as we are, onely ſinne excepted, and in our naturall fleſhe, was obedient euen vnto the very death of the Croſſe, wher<g ref="char:EOLhyphen"/>in he ſuffered for vs, the very paynes of hell both in ſoule and body, was dead &amp; buried, and roſe againe the third day to iuſtifie vs, and after fortie dayes he did aſcend into heauen whence he came, &amp; there he will ſit vntill the day of iudge<g ref="char:EOLhyphen"/>ment, hauing all power both in heauen and earth, which is ment by ſitting at Gods right hand. And then he wil come and be our ioyfull iudge, but vntill then he will be with vs in ſpirit and power, by which ſpirit, we haue reuelation &amp; knowledge of him, and what God is? And without this ſpirit, it is vnpoſſible to vnderſtand his holy will, that is re<g ref="char:EOLhyphen"/>uealed
+<pb facs="tcp:11553:7"/> in his holy word, which holy ſpi<g ref="char:EOLhyphen"/>rit, is the holy Ghoſt, which holy Ghoſt is the vertue and power of God, procée<g ref="char:EOLhyphen"/>ding from the father and the ſonne, the third perſon in the trinitie which three perſons is but one God, which God is almightie, vnmeaſurable, incomprehen<g ref="char:EOLhyphen"/>ſible and without all mens capacitie and wiſedome. For he is a ſpirit, and there<g ref="char:EOLhyphen"/>fore they that will worſhip him, muſt worſhippe and ſerue him in ſpirit, and trueth,<note place="margin">
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m. 18. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 1.16. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>. 6.16.</note> for otherwiſe, he is incompre<g ref="char:EOLhyphen"/>henſible, he is <hi>Alpha</hi> and <hi>Omega,</hi> that is, he is the firſt and the laſt, without beginning or ende, for no man hath ſéene God at any time, vnto whom be all ho<g ref="char:EOLhyphen"/>nour. Amen.</p>
+            </sp>
+            <sp>
+               <speaker>Another ſonnes Question.</speaker>
+               <p>
+                  <hi>Father, you ſay that S. Iohn ſaith, that no man hath ſeene God at any time. I pray you tell vs then, why God is pic<g ref="char:EOLhyphen"/>tured in forme like an olde man, with a long white beard &amp; ſitting in a golden chaire, how can that be except he hath beene ſeene of ſome man.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>The fathers aunſwere.</speaker>
+               <p>My ſonne, I ſay that God is neyther olde, nor young, neither can any place
+<pb facs="tcp:11553:7"/> containe him, for hee filleth all places, both in heauen and earth, and the Sea: and therefore he is euerywhere, for hea<g ref="char:EOLhyphen"/>uen is his ſeate, and earth is his foote<g ref="char:EOLhyphen"/>ſtoole, and therefore he muſt haue a very great chaire to containe him. Therefore ſuch as dare preſume to paint or picture him, in any proportion, dooth commit great and horrible blaſphemie, and are curſed of God himſelfe. Much leſſe like an olde man, with a long white Beard, for that is the weakeſt ſort of men. But how can or dare any creature make his Creator. Oh horrible, execrable, damna<g ref="char:EOLhyphen"/>ble, vile, preſumptuous curſed wretch, that dare preſume to violate and breake Gods holy precept, forbidden expreſſely in the firſt table and the ſeconde verſe. Good children beware of ſuch horrible Papiſticall blaſphemies.</p>
+            </sp>
+            <sp>
+               <speaker>Another Question of the ſonne.</speaker>
+               <p>
+                  <hi>Father I heard you once ſay that there was a man in Bridewell, that affirmed by Scripture that it was not lawfull to feare God, but to loue him. Muſt we not feare God but loue him?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>The fathers aunſwere.</speaker>
+               <p>In déede there was a vile fellowe in
+<pb facs="tcp:11553:8"/> Bridewel that affirmed out of the ſcrip<g ref="char:EOLhyphen"/>tures, &amp; firſt out of the ſeconde Chap. of S. Luke &amp; the <hi>17.</hi> verſe, out of the ſong of Zacharias, in theſe wordes, that we be<g ref="char:EOLhyphen"/>ing deliuered out of the handes of our e<g ref="char:EOLhyphen"/>nemies, might ſerue him without feare, all the dayes of our life, but this feare is not meant towarde God, but it is that wee ſhoulde not feare Gods rigor and iuſtice: that he ſcourgeth the wicked withall, but loue him as a father: ney<g ref="char:EOLhyphen"/>ther yet feare what the wicked can doo vnto vs, in all their extremities or malice, neither yet feare any of theyr threates, ſcornes, ſcoffes, perſecutions or tortures whatſoeuer, but becauſe God hath deliuered vs out of the handes of our enemies, we ſhoulde ſerue him without feare all the dayes of our life, &amp; not caſt off our louing feare of our good God, that hath deliuered vs out of the handes of the deuill, hell and damnation for euer. Who woulde not feare to diſ<g ref="char:EOLhyphen"/>pleaſe ſuch a good God &amp; louing father, alſo diuers ſcriptures are our warrant againſt this preſumptuous villaine, for God promiſeth great bleſſings vnto all ſuch as feare him. As for example in the
+<pb facs="tcp:11553:8"/> booke of Moſes, it is ſet downe howe God loueth his owne children that feare him, as the wordes of the thrée men or Angels affirmeth; when they vſed theſe words vnto Abraham: Shall God (ſay they) hyde any thing from Abraham, be<g ref="char:EOLhyphen"/>cauſe he and all his houſe feare him. Alſo Ioſua or Ieſus the Captaine that con<g ref="char:EOLhyphen"/>ducted the children of Iſraell after Mo<g ref="char:EOLhyphen"/>ſes, vſed theſe words vnto them: Deo you (ſayth he) what you wyll; but I and all my houſe wil ſerue and feare y<hi rend="sup">e</hi> Lord. Alſo the holy Prophet Dauid hath theſe warrants throughout all his Pſalmes, to feare God, as firſt in the <hi>2.</hi> Pſalme, verſe <hi>11.</hi> Commaunding (ſaith) ſée that yée ſerue the Lorde in trembling and in feare. Alſo in the <hi>25.</hi> Pſalme. verſe <hi>3.</hi> They that feare the Lorde ſhall knowe his ſecrets. And in the <hi>34.</hi> Pſalme, vet. <hi>9.10.</hi> Feare the Lord hys holy ones, for they that feare him ſhall lacke no good bleſſing. And againe, Come néers my children and I ſhall teach you howe to feare the Lord. And in the <hi>128.</hi> Pſa. The holy ghoſt pronounceth the<g ref="char:cmbAbbrStroke">̄</g> bleſſed that feare y<hi rend="sup">e</hi> Lord. Alſo in the firſt Chapter of Salomons Prouerbs. verſe <hi>.7.</hi> The ho<g ref="char:EOLunhyphen"/>ly
+<pb facs="tcp:11553:9"/> Ghoſt ſayth, That the feare of the Lord is the beginning of wiſedome. And Eccl. in his <hi>4.</hi> Chap. ver. <hi>13.</hi> ſaith that a poore child which feareth God, is better then a king y<hi rend="sup">t</hi> doteth. Thus you proued by warrants of ſcripture y<hi rend="sup">e</hi> way to feare God. Yet this wretch forgeth other pla<g ref="char:EOLhyphen"/>ces out of the ſcripture like the deuill for his purpoſe. As out of the <hi>8</hi> Chap to Ro. <hi>25.</hi> ver. in theſe words, yee haue not reſ<g ref="char:EOLhyphen"/>cued that ſpirit of bondage that ye ſholde feare any more: but the villaine abuſeth the text corruptly, for the Apoſtle mea<g ref="char:EOLhyphen"/>neth no ſuch thing, but that we ſhoulde not feare condemnation nor wauer or diſpayre as the Papiſts teacheth vs, to make vs dwell in bondage and feare of our ſaluation in Chriſtes merits onely, but to be euer in doubt &amp; diſpayre, which peſtilent doctrine maketh thouſandes to feare God and not loue him. Feare not him that can kyl the body, but feare him which can kill both ſoule and body.</p>
+            </sp>
+            <sp>
+               <speaker>The ſonnes fourth Queſtion.</speaker>
+               <p>
+                  <hi>Good father who are thoſe that feare God, and not loue him, are there any ſuch, I pray you diſcribe who they be.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>The fathers aunſwere.</speaker>
+               <pb facs="tcp:11553:9"/>
+               <p>All they are thoſe which binde them<g ref="char:EOLhyphen"/>ſelues to the obſeruation of Gods lawes and the popiſh ceremonies, and thinke except they obſerue and kéepe them, they are damned for euer. And when they ſée that they are not able to kéepe them: the<g ref="char:cmbAbbrStroke">̄</g> they liue in ſeruile feare of God and his Lawes, wyſhing that there were ney<g ref="char:EOLhyphen"/>ther God, lawes, nor precept. Theſe I ſay, are thoſe that feare God, &amp; not loue him, for they haue receiued y<hi rend="sup">e</hi> ſpirite of bondage that S. Paule ſpeaketh of in his <hi>8.</hi> Chap. to the Rom. which carnall ſpirit, maketh them dwell euer in feare of hell, and damnation, and yet toyle and moyle themſelues to obſcure the lawe of God, by their own righteouſnes &amp; merits and by theyr hipocriticall ceremonies of ciuil life. Theſe I ſay, feare God as the wicked feare the magiſtrates &amp; lawes of this land, for they rather curſſe them the<g ref="char:cmbAbbrStroke">̄</g> loue the<g ref="char:cmbAbbrStroke">̄</g>, ſuch a ſeruile feare haue y<hi rend="sup">e</hi> igno<g ref="char:EOLhyphen"/>rant Athiſts, the meritmongers, the pa<g ref="char:EOLhyphen"/>piſts &amp; the double harted proteſtants, for they feare Gods law &amp; his iudgeme<g ref="char:cmbAbbrStroke">̄</g>t for feare of damnatio<g ref="char:cmbAbbrStroke">̄</g>, but they loue him not Euen as y<hi rend="sup">e</hi> wicked feare y<hi rend="sup">e</hi> Prince &amp; her laws for feare of <hi>Tiborn,</hi> but they loue her
+<pb facs="tcp:11553:10"/> and her lawes as well as they loue Ty<g ref="char:EOLhyphen"/>borne, and all this is, becauſe the haue neither true faith, true loue, nor true feare of God or Prince. And therefore are they neuer able to vnderſtande or make any true deſtinctio<g ref="char:cmbAbbrStroke">̄</g> either of Gods lawe, beléefe, goſpell, ſacrament, or prai<g ref="char:EOLhyphen"/>er to ſatiſfy them ſelues, or any other in affliction, but deſperately voyde of all ſwéete ioies of heauenly comfort and con<g ref="char:EOLunhyphen"/>ſolation for euer without regeneration.</p>
+            </sp>
+            <sp>
+               <speaker>The ſonnes 5. Queſtion.</speaker>
+               <p>
+                  <hi>Father you ſayde that no man is able to keepe and fulfill Gods commaunde<g ref="char:EOLhyphen"/>ments. VVhy ſhould God Giue ſuch a lawe that no man is able to keepe, and yet you ſay, if that wee doo not fulfill and keepe them, we ſhall all be damned for euer.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>The fathers anſvvere.</speaker>
+               <p>My ſonne, (marke what I ſay, God that made the law, made it as he is him ſelfe (that is) iuſt, righteous and holy, and ſo made he man alſo at his firſt crea<g ref="char:EOLhyphen"/>tion, iuſt, righteous and holy. And ſo made God Adam like himſelfe, and then able to kéepe and performe the whole lawe. Therefore man muſt of force ſéeke
+<pb facs="tcp:11553:10"/> and practiſe all the meanes and wayes poſſible how to fulfill and kéepe y<hi rend="sup">e</hi> ſame lawe in euery poynt and title, which we may by his grace working in vs, bee made able to doo in ſome meaſure, but yet not ſo perfectly, by the entring in iudgement with vs, he may iuſtly con<g ref="char:EOLhyphen"/>demne vs, but he will not haue any to-be ſaued otherwiſe then by mercy, offe<g ref="char:EOLhyphen"/>red in his ſonne Chriſt, and obtayned by faith in him.</p>
+            </sp>
+            <sp>
+               <speaker>The ſonnes 6. queſtion or obiection.</speaker>
+               <p>
+                  <hi>Howe is it poſsible, becauſe you ſay that no man is able to keepe and fulfill it, much leſſe in euery poynt and title.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>The fathers aunſwer.</speaker>
+               <p>That which man is not able to doo, by reaſon of hys fall, God hath ſo loued vs before Adams fall, that he did prouide for vs in his mercy and grace. A man, euen God and man Ieſus Chriſte, his onely ſonne, who came downe from hea<g ref="char:EOLunhyphen"/>uen, from God his father, and diſdayned not to be incloſed in y<hi rend="sup">t</hi> Virgins wombe, and there was made man by the power of the holy ghoſt, in all points as we are, onely ſinne excepted and in our fleſh and nature ſuffered his paſſion on y<hi rend="sup">e</hi> Croſſe
+<pb facs="tcp:11553:11"/> for vs, and on it ſuffered the very paines and torments of hell vnto bitter death, and was buried, by which death and paſ<g ref="char:EOLunhyphen"/>ſion, he hath fully accompliſhed our ſal<g ref="char:EOLhyphen"/>uation, and alſo fulfilled the whole lawe in euery point and title, and alſo appea<g ref="char:EOLhyphen"/>ſed Gods wrath, and vanquiſhed the de<g ref="char:EOLhyphen"/>uill, hell and damnation, and ſet open the gates of heauen for al faithful beléeuers, and brought vs into fauour againe with God, his and our faithfull father, and is aſcended into heauen where hee ſitteth, and hath all power bothe in heauen and earth, and there is our daily mediatour vnto God, his and our father for vs, vn<g ref="char:EOLhyphen"/>till he ſhall come againe to be our ioyfull Iudge, but yet we muſt ſtriue and prac<g ref="char:EOLhyphen"/>tiſe daily to fulfill (to the vttermoſt of our power) Gods holy will and comman<g ref="char:EOLunhyphen"/>dements.</p>
+            </sp>
+            <sp>
+               <speaker>The ſonnes 7. Queſtion or obiection.</speaker>
+               <p>
+                  <hi>How is it poſsible except you can de<g ref="char:EOLhyphen"/>ſcribe vs ſome meanes or way to prac<g ref="char:EOLhyphen"/>tiſe it, good deere father direct vs.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>The fathers aunſwere.</speaker>
+               <p>By theſe fiue ſteppes or degrées which if you can keepe vnto the ende, you ſhal
+<pb facs="tcp:11553:11"/> kéepe Gods commandements to pleaſe him, although not fulfilled it, for y<hi rend="sup">t</hi> Chriſt hath doone already. Which ſteppes are theſe: firſt to heare the word of God dili<g ref="char:EOLhyphen"/>gently, reuerently, and louingly. Second<g ref="char:EOLunhyphen"/>ly, to learne it ſimply, faithfully &amp; obe<g ref="char:EOLhyphen"/>diently. Thirdly, to vnderſtand it hum<g ref="char:EOLhyphen"/>bly, ſpiritually, and truely. Fourthly, to practiſe it holily, conſtantly and righte<g ref="char:EOLhyphen"/>ouſly. Fiftly and laſtly, to perſeuer dai<g ref="char:EOLhyphen"/>ly, hourely, and vnto our liues ende moſt triumphantly, and by theſe fiue ſteps or degrées you may practiſe to keepe the whole decalog and will of God.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>The ſonnes <hi>8.</hi> Queſtion or requeſt.</hi>
+               </speaker>
+               <p>
+                  <hi>I pray you diſcribe vnto vs, the true ſence &amp; meaning of the Law, decaloge or precept in a breefe ſome or expoſitio<g ref="char:cmbAbbrStroke">̄</g>.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>The fathers deſcription or expoſition.</speaker>
+               <p>It is ſet downe by Moſes, as he recei<g ref="char:EOLhyphen"/>ued it from God in y<hi rend="sup">e</hi> Mount <hi>Sinai,</hi> and he receiued it into two Tables, and in <hi>10.</hi> verſes or precepts it is expreſſed, and in the firſt Table is ſette downe <hi>4.</hi> precepts, and in y<hi rend="sup">e</hi> ſecond Table is writ<g ref="char:EOLhyphen"/>ten <hi>6.</hi> precepts, in which firſt table is ſet
+<pb facs="tcp:11553:12"/> downe our duety toward God in the <hi>4.</hi> firſt verſes, and in the ſeconde table our duety towards our neighbour, for in the firſt table, we are taught in the <hi>4.</hi> firſt precepts, to haue none other Gods but God onely. Secondly, not to reuerence or worſhip any thing in heauen or earth. And thirdly, not to abuſe Gods holye name in any exerciſe. And fourthly, wee are commaunded ſtraightle, to remem<g ref="char:EOLhyphen"/>ber to keepe holy the Lordes day. And in the ſecond table in the <hi>6.</hi> precepts wee are commaunded in the firſt precept, and fift commaundement, for to honour our Parents, Princes, and Magiſtrates. And the ſixt commaundement forbid<g ref="char:EOLhyphen"/>deth murder. The <hi>7.</hi> forbiddeth adulte<g ref="char:EOLhyphen"/>rie, The <hi>8.</hi> forbiddeth theft. The <hi>9.</hi> for<g ref="char:EOLhyphen"/>biddeth periury and falſe witnes againſt thy neighbour. And the <hi>10.</hi> and laſt co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>maundement, forbiddeth couetouſneſſe, extortion, vſury, or any thing that ſhall preiudice thy neighbour. So that in the firſt table practiſed, is ſéene our loue, ho<g ref="char:EOLhyphen"/>lineſſe, faith and zeale towards God. E<g ref="char:EOLhyphen"/>uen ſo by our indeuour of the ſecond Ta<g ref="char:EOLunhyphen"/>ble is alſo ſéene our loue, mercy, faith and fidelity towardes our poore neighbours
+<pb facs="tcp:11553:12"/> and brethren. The ſumme and fulfilling of the whole lawe of God is firſt to loue God aboue all things whatſoeuer, which is the fulfilling of the foure firſt preceps of the firſt Table. And the ſecond is to loue our neighbours &amp; brethren as our ſelues, which is the fulfilling of the ſixe laſt precepts in the ſecond Table, that is to liue in righteouſnes all the dayes of our life, which power the Lorde God graunt vs for Chriſtes ſake.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>The ſonnes <hi>9.</hi> Queſtion.</hi>
+               </speaker>
+               <p>
+                  <hi>Becauſe the ſcripture ſayth, that no man by the deedes of the Lawe can me<g ref="char:EOLhyphen"/>rite ſaluation. How then is it poſsible to be certaine and ſure of our ſaluation, ſeeing we are bound to keepe the whole Lawe.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>The fathers anſwere.</speaker>
+               <p>I haue ſayd before, that which natu<g ref="char:EOLhyphen"/>rall men cannot doo, our Chriſt which is both God and man, hath by his precious death and paſſion fully accompliſhed, but yet we muſt doo our indeuour and good<g ref="char:EOLhyphen"/>will to practiſe his commaundement vn<g ref="char:EOLunhyphen"/>to the vttermoſt of our power. And ther<g ref="char:EOLhyphen"/>fore the ſureſt wae for vs is to take faſt holde of Chriſt by a ſure &amp; firme fath. &amp;c.</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:11553:13"/>
+               <speaker>
+                  <hi>The ſonnes <hi>10.</hi> Queſtion.</hi>
+               </speaker>
+               <p>
+                  <hi>But what faith is that I pray you de<g ref="char:EOLhyphen"/>ſcribe vnto my mother and vs, the true ſence and meaning thereof.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>The fathers aunſwer.</speaker>
+               <p>It is our beléefe Apoſtolicall, common<g ref="char:EOLunhyphen"/>ly called the Créede of the Apoſtles. As we ſay dayly. I beléeue in God. &amp;c. which Créede or beléefe, is ſet downe in <hi>12.</hi> Ar<g ref="char:EOLhyphen"/>ticles, which <hi>12.</hi> Articles are deuided in<g ref="char:EOLhyphen"/>to foure partes, and in the firſt parte we confeſſe God our father to be almighty, and the onely maker of heauen &amp; earth, and in the ſeconde parte, we doo alſo con<g ref="char:EOLhyphen"/>feſſe Ieſus Chriſt to be the onely ſonne of God, and the ſecond perſon in the tri<g ref="char:EOLhyphen"/>nity, who being equall with God, hys and our father, came downe from hea<g ref="char:EOLhyphen"/>uen vnto vs in earth, and héere was in<g ref="char:EOLhyphen"/>cloſed in y<hi rend="sup">e</hi> virgines wombe, &amp; there was made man in all poynts, as we are only ſinne excepted, by the power of the holy ghoſt, and was borne of the Virgin Ma<g ref="char:EOLhyphen"/>ry in <hi>Bethlem,</hi> in a ſtable betwéene an
+<pb facs="tcp:11553:13"/> Oxe and an Aſſe, cradled in a maunger, or Crach, and after he had liued obedient<g ref="char:EOLunhyphen"/>ly with his Mother the Virgin, and his ſuppoſed father Ioſeph at twelue yéeres of his age, he did diſpute with the migh<g ref="char:EOLhyphen"/>ty doctors in the middeſt of the Temple of Ieruſalem, and there expounded the ſcriptures, and all that heard him won<g ref="char:EOLhyphen"/>dred at his gratious ſpéeches, and at the age of <hi>30.</hi> yeeres, was baptiſed of Iohn in Iordayne, and then went into the wil<g ref="char:EOLunhyphen"/>dernes, and was tempted <hi>3.</hi> times of the deuill, and then came to Ieruſalem méek<g ref="char:EOLunhyphen"/>ly ryding on an Aſſe, and there was re<g ref="char:EOLhyphen"/>ceiued of men and children with <hi>hoſan<g ref="char:EOLhyphen"/>na,</hi> confeſſing him king of Iſraell, and the ſonne of the higheſt, and there hee whypped out of the Temple the buyers and ſellers and money chaungers, and after he hadde reprooued the Scribes and Phariſes, and taught the Scrip<g ref="char:EOLhyphen"/>ture, (vnto hys Diſciples) hee was Iu<g ref="char:EOLhyphen"/>daſly ſolde vnto the Scribes and Phari<g ref="char:EOLhyphen"/>ſes, mocked, reuiled, ſcorged, buffe<g ref="char:EOLhyphen"/>ted, condemned of Pilate, crowned with thornes, crucified on the Croſſe betwene two theeues, and accurſſed of God hys
+<pb facs="tcp:11553:14"/> father, and dyd ſuffer on the Croſſe the very paynes of hell (bothe in bodye and ſoule) for thée and me, was dead and bu<g ref="char:EOLhyphen"/>ryed for thée and me, and the third day he roſe againe to iuſtifie thee and mee. And after forty daies, when hee hao ac<g ref="char:EOLhyphen"/>compliſhed his fathers wyll, in the ſight of all his Apoſtles and many other, hee did aſcend vp into heauen, where he ſits, and there he ſhall remaine vntill the day of iudgement, where he maketh continu<g ref="char:EOLhyphen"/>all interceſſion vnto God our Father for thée and mée, who hath all power bothe in heauen and earth to helpe thée and me, and will ſurely come againe the laſt day in power and glory, and be a ioyfull Iudge for thée and mée. This is the ſum of the ſecond part of our beléefe: and in the third part of our beléefe, we beléeue in the holy ghoſt, &amp; that he is y<hi rend="sup">e</hi> third per<g ref="char:EOLunhyphen"/>ſon in the trinitie, equall with the father and the ſonne, and that he is the vertue and power of God, procéeding both from the father and the ſonne, and alſo the Il<g ref="char:EOLhyphen"/>luminator of hys elect, yea <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d the ſanc<g ref="char:EOLhyphen"/>tifier and preſeruer of all hys ſaints, the holy Church of God. And in the fourth part of our beléefe, wee beléeue and con<g ref="char:EOLhyphen"/>feſſe
+<pb facs="tcp:11553:14"/> the communion of ſaintes, to be all thoſe which beléeue that Ieſus Chriſt is the their onely mediator and ſauiour, which communion of ſaints we beleeue is the vniuerſall Church of Chriſte, dyſ<g ref="char:EOLhyphen"/>perſed throughout all the world, commo<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>ly called the Catholike Church, diſper<g ref="char:EOLhyphen"/>ſed héere and there vppon the face of the whole earth, of which comyany Ieſus Chriſt is the head, (and not the Pope) which head will not loſe one of his elect for we are as déere vnto him, as the ap<g ref="char:EOLhyphen"/>ple of his eye although we be héere con<g ref="char:EOLhyphen"/>temned, diſpiſed, derided, and tormented yet our firme faith and beléefe is, that our ſinnes are forgiuen vs, onely by our redéemer and mediator Ieſu Chriſtes merits, and that our bodies and ſoules ſhalbe at the ioyfull day of iudgement triumphantly with him in heauen, for euer and euer, and this is the whole ſumme of our faith. But this fayth is not mans fantaſie or dreame, nor the ho<g ref="char:EOLhyphen"/>ly papiſts formed faith, nor the Athiſtes frozen faith, nor yet any euill faith, nor an hereticall fayth, but a full and firme aſſuraunce of ſaluation, grounded and founded vpon the promiſes made in the
+<pb facs="tcp:11553:15"/> beloued mediator Ieſus Chriſt.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>The ſonnes <hi>11.</hi> Queſtion.</hi>
+               </speaker>
+               <p>
+                  <hi>Is there any that profeſſeth any other fayth but this which you haue alreadye deſcribed. I pray you good father let vs vnderſtand who they be, and what they are.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>The fathers aunſvvere.</speaker>
+               <p>Yea, there is an Hiſtorical faith, which the deuils, Athiſts, Epicures, and all bel<g ref="char:EOLhyphen"/>ly Gods haue, that is, they doo beléeue that there is a God, and that the Scrip<g ref="char:EOLhyphen"/>tures be true, and alſo feare and trem<g ref="char:EOLhyphen"/>ble, but they neuer practiſe to doo hys wyll, neither yet loue they God nor hys holie worde, but they loue theyr owne pleaſure and bellyes more then God, therefore they ſhall be ſaued with the deuils, for theyr counterfaite, hypocriti<g ref="char:EOLhyphen"/>call holy and euill life will not ferue. There is alſo y<hi rend="sup">e</hi> Scribes, Phariſes, and Fryers, and Papiſts formed frozen faith, which teache men that by their merits, cerimonies and holye ſeruice, that they ſhall eſcape Purgatorye, and deſerue heauen. And ſo they ſhall as ſoone as the Athiſt, Epicure, bellye
+<pb facs="tcp:11553:15"/> Gods and deuils.</p>
+               <p>There is yet an other ſort of people, that perſwade themſelues they haue a great faith, and think that they are high<g ref="char:EOLhyphen"/>ly in Gods fauoure becauſe they can make great ſpéeche of ſcripture, and vſe great grauity, ſo that Butter would not ſéeme to melt in theyr mouthes, before ſuch as are the principall Preachers, and wyll inuite them home to theyr houſe, to cloake theyr holy hypocriſy, but let a poore profeſſor méete any of theſe and ſalute them, then they wyll looke ſo lofty with their eye leddes, and ſpeake ſo ſtrangely, as though they had neuer ſéene or knowne them, and yet of theyr olde familiar acquaintance. But let a poore man make hys mone vnto them of hys néede, then are they dry, and alto<g ref="char:EOLunhyphen"/>gether without any ſappe of Chriſtian loue and charity, which ſhoweth theyr hypocriticall fayth and infidelity, theſe carnall Proteſtants are all one with v<g ref="char:EOLhyphen"/>ſurers (I wyll not ſay) Vſurers, I wyll not ſay Leaſemongers, Extorcio<g ref="char:EOLhyphen"/>ners, and proude, prophane, myſera<g ref="char:EOLhyphen"/>ble, merciles worldlings.</p>
+               <pb facs="tcp:11553:16"/>
+               <p>There is yet a ſimple ſort of Prote<g ref="char:EOLhyphen"/>ſtants which thinke they are very reli<g ref="char:EOLhyphen"/>gious, but they are ſuch as S. Paule ſpeaketh off, which are euer learning, and yet ignoraunt aſſes: and as proude as Pecocks. All theſe wyll runne as faſt to heauen, as the Athiſts, Epicures, Pa<g ref="char:EOLhyphen"/>piſts, and deuils, theſe haue faith, but without repentaunce of life: it is but preſumption, which will bréede in y<hi rend="sup">e</hi> end repentaunce without fayth, which brée<g ref="char:EOLhyphen"/>deth deſperation, from which the Lorde kéepe vs. There is alſo the Annabap<g ref="char:EOLhyphen"/>tiſt, and the peſtilent Fameliſts fayth, from which horrible ſecte, good Lord of hys mercy deliuer vs all.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>The ſonnes <hi>12.</hi> Question.</hi>
+               </speaker>
+               <p>
+                  <hi>How shoulde one attaine vnto a ſure and conſtant faith, becauſe you ſay that no ciuill lyuing can pleaſe God, wyth<g ref="char:EOLhyphen"/>out a ſure and conſtant fayth.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>The fathers aunſwere.</speaker>
+               <p>There is no meanes or way to attaine vnto ſuch a faith but by frée grace from God, through Ieſus Chriſt our Lord, and that onely by daily and faithful prai<g ref="char:EOLhyphen"/>ers vnto God our father for his onely ſonnes ſake, and alſo for his holy ſpirite,
+<pb facs="tcp:11553:16"/> to inſtruct and teach vs howe to pray, &amp; by none other prayer, but that prayer which Chriſt hath taught vs in his ho<g ref="char:EOLhyphen"/>ly Goſpell, which prayer ſoundeth thus. <hi>Our father which art in heauen, &amp;c.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>The ſonnes <hi>.13.</hi> Question.</hi>
+               </speaker>
+               <p>I pray, you ſir, is this prayer to be de<g ref="char:EOLhyphen"/>uided into parts, as you haue done the commaundements and the beléefe.</p>
+            </sp>
+            <sp>
+               <speaker>The fathers aunſwere.</speaker>
+               <p>Yea, for it is deuided into <hi>.6.</hi> petitions &amp; <hi>.2.</hi> partes, and in the firſt part is thrée petitions, &amp; in the ſecond part i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> other thrée, and the firſt thrée petitions excel<g ref="char:EOLhyphen"/>leth the thrée laſt, as much as the firſte table excelleth the ſecond, for in the thrée firſt petitions, we craue of God all thin<g ref="char:EOLhyphen"/>ges neceſſary for our ſoules, in the thrée laſt petitions, we aſke of God al things néedefull for our bodyes, quietneſſe of minde, and preſeruation from Sathan, &amp;c. But as touching that preamble which ſoundeth thus. <hi>Our father which art. &amp;c</hi> That is none of the petitions.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>The ſonnes <hi>14.</hi> Queſtion.</hi>
+               </speaker>
+               <p>What meane you by this word pre<g ref="char:EOLhyphen"/>amble, is it not one of the <hi>.6.</hi> petitions as the reſt are.</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:11553:17"/>
+               <speaker>The fathers aunſwere.</speaker>
+               <p>No, it is no more but a faythfull and reuerent preſentation of our ſelues vn<g ref="char:EOLhyphen"/>to God our father: in which humble &amp; faythfull ſalutation, we acknowledge God to be our father and to be in heaue<g ref="char:cmbAbbrStroke">̄</g>, but as touching the firſt petition which ſoundeth thus, hallowed be thy name, in this we craue &amp; pray our good father that we may reuerence and with all our power, honor, ſanctifie, and kéepe holye his name, that is that we abuſe not his name, by ſwearing by it in vayne, ney<g ref="char:EOLhyphen"/>ther prophane it in any ſeruice or ſe<g ref="char:EOLhyphen"/>remonie, for that is ſorcerie, although y<hi rend="sup">e</hi> ignorant think they do god good ſeruice. And as touching the <hi>.2.</hi> petition whiche ſoundeth thus, thy kingdome come. In this petition we craue of our good father that his kingdome may dwell with vs and raigne with vs, which kingdome is his holie word, &amp; all his heauenly gyftes &amp; graces therunto belonging, in which petition we alſo pray, that God woulde giue vs his holy ſpirite, and power to withſtand Sathan &amp; all his wiles for e<g ref="char:EOLhyphen"/>uer. And in the <hi>.3.</hi> petition we craue of our louing father, that we may haue
+<pb facs="tcp:11553:17"/> power and grace to do his holye will in all our actions, affections and conuerſa<g ref="char:EOLhyphen"/>tions in this life, euen in earth as it is faythfully done in heauen. In whiche <hi>.3.</hi> holy petitions, we craue of our good God all thinges neceſſary for our ſoules. As in the firſt table we are taught in the firſt foure preceptes. And in the fourth petition which ſoundeth thus. Giue vs this day our daylie bread: In this peti<g ref="char:EOLhyphen"/>tion we craue all thinges that is neceſ<g ref="char:EOLhyphen"/>ſary for this life whatſoeuer. In which alſo is concluded all thinges neceſſarye for this life, both bleſſinges ſpirituall and bleſſinges temporall, and that in a<g ref="char:EOLhyphen"/>ny wiſe we abuſe it not prodigally. And in the fifth petition, forgiue vs our offen<g ref="char:EOLunhyphen"/>ces, as we do forgiue them that offende vs. In which prayer we aſke vengance of God, if we forgiue not one another, &amp; therein alſo we ſhowe our chriſtian loue and chayity one towards an other, yea our fayth and fidelitie. And in the ſixt and laſt petition, whiche ſoundeth thus. And leade vs not into temp<g ref="char:EOLhyphen"/>tation, but delyuer vs from euyll. In this Petition we craue of our Good Father, that hee wyll not
+<pb facs="tcp:11553:18"/> caſt vs of from him to be tormented of the Diuell, at his malicious will, and ſo confounded for euer, or giue vs ouer to our owne willes and pleaſures, but that we may by his mercifull protection be be preſerued for euer. In whiche thrée laſt petitions we craue all thinges ne<g ref="char:EOLhyphen"/>ceſſary for our bodies, and ſafetie fro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſathan. And as for the addition whiche ſoundeth thus: <hi>For thine is the king<g ref="char:EOLhyphen"/>dome, power, and glory, for euer and e<g ref="char:EOLhyphen"/>uer.</hi> In this is ſéene our ſence and feling of God, becauſe we confeſſe that king<g ref="char:EOLhyphen"/>dome, power, and all glory, for euer be<g ref="char:EOLhyphen"/>longeth vnto god, and ſo we take our leaue of God to his honour and glorye, ſo that this prayer paſſeth all carnal ca<g ref="char:EOLhyphen"/>pacitie, and worldly wiſedome.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>The ſonnes <hi>.25.</hi> Queſtion.</hi>
+               </speaker>
+               <p>
+                  <hi>Oh Lorde how doth many thouſands pray at this day, if it paſſe mans rea<g ref="char:EOLhyphen"/>ſon, capacitie, and wiſedome, goods father certifie vs.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>The fathers aunſwere.</speaker>
+               <p>Many indéede there be that pray, but their prayers are no better then y<hi rend="sup">e</hi> prai<g ref="char:EOLhyphen"/>er of a parrat, becauſe they haue neither ſence nor feeling of the holy ſpirit of
+<pb facs="tcp:11553:18"/> God, without which ſpirit, it is impoſſi<g ref="char:EOLhyphen"/>ble to pleaſe God in prayer, neyther yet to vnderſtand what prayer is, and ther<g ref="char:EOLhyphen"/>fore ſuch prayer and praying, turneth to great ſinne, &amp; prouoketh gods wrath. And Chriſt calleth it lip-labour &amp; bab<g ref="char:EOLhyphen"/>ling. And ſaint Iames ſayth, that they aſke and receiue not, becauſe they aſke they knowe not what: For the moſt part pray on this faſhion. Oh Lorde de<g ref="char:EOLhyphen"/>fend vs from all euill. O Lord kéepe me from all mine enimies. O Lorde ſende that I want not. O Lorde increaſe my wealth, (and not his fayth) and graunt that I <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay be able for to dwell in cre<g ref="char:EOLhyphen"/>dite and countenaunce with my neigh<g ref="char:EOLhyphen"/>boures, and that I may be able to beare office and aucthoritie among my neigh<g ref="char:EOLhyphen"/>bours and company. O Lord bleſſe all my houſe &amp; goods, y<hi rend="sup">t</hi> I co<g ref="char:cmbAbbrStroke">̄</g>e not to miſery, &amp; bles al my fre<g ref="char:cmbAbbrStroke">̄</g>ds &amp; kinred. But no ſigh<g ref="char:EOLhyphen"/>ing or ſorrowing for ſinnes, no crauing for mercy, nor groaning in the ſpirite, No ſobbing in repentance, no interceſſi<g ref="char:EOLhyphen"/>on for heauenly benedictions and bleſ<g ref="char:EOLhyphen"/>ſinges, no thankes for our election, crea<g ref="char:EOLhyphen"/>tion, ſaluation, ſanctification, iuſtificati<g ref="char:EOLhyphen"/>on, and preſeruation. No prayer to God
+<pb facs="tcp:11553:19"/> to honour his holy name, no crauing that his kingdome might dwell among vs (his holy woord) No prayer that hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> holy will and our willes may be all one here in earth, as it is in heauen, but all for earthly thinges, to haue our owne willes &amp; pleaſures fulfilled, no praying as chriſt hath taught vs, as it is expreſ<g ref="char:EOLhyphen"/>ſed in the <hi>.3.</hi> firſt petitions, for our ſoules health. And then for things neceſſary for this life. No <hi>Salomons</hi> prayer, for good wiſedome and his holy ſpirit, but all for worldly bleſſinges, that he may ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e <hi>Iohn</hi> his ſonne a Gentleman, &amp; <hi>Ioane</hi> his daughter pennie white, although y<hi rend="sup">e</hi> parents purchate Hell for his paynes. This is the aſheiſts. Epicures, belligoo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and Carnall Proteſtantes, forme and manner of prayer, &amp; although they vſe to ſay (for order ſake) the thrée fiyſt peti<g ref="char:EOLhyphen"/>tions. Firſt, yet they practiſe them laſte or neuer, becauſe they are worldly min<g ref="char:EOLhyphen"/>ded which cannot comprehende ſpiritu<g ref="char:EOLhyphen"/>all things. And therefore if God doo ful<g ref="char:EOLhyphen"/>fill their prayers, it is in his wrath to their greater condemnation, although they thinke them ſelues in great felici<g ref="char:EOLhyphen"/>ty and happines aboue others, &amp; ſo dwel puffed vp with pride, becauſe of their
+<pb facs="tcp:11553:19"/> great abundance, and ſo come to auctho<g ref="char:EOLhyphen"/>ritie, and liue all their time in proſperi<g ref="char:EOLhyphen"/>ty, &amp; iollity, without either pittie or co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>paſſion of poore neighbours or brethren, &amp; except they repent, they ſodaynely ſlyp to hell. And therefore (to conclude) as the Lords prayer is deuided in <hi>.6.</hi> petitions, &amp; as ſo<g ref="char:cmbAbbrStroke">̄</g>e ſay into <hi>.7.</hi> ſo I feare, if y<hi rend="sup">t</hi> world were deuided into <hi>.6.</hi> or <hi>.7.</hi> parts, I feare y<hi rend="sup">t</hi> 
+                  <hi>.6.</hi> partes doth pray in vaine, yea y<hi rend="sup">t</hi> are called chriſtians. Although we haue ben taught &amp; catechiſed more then <hi>.26.</hi> yéeres yea ſome more then <hi>.46.</hi> yéers, &amp; therfore feare is come on me becauſe the people ſet light thy lawe. <hi>Pſa. 119. ver. 53.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>The ſonnes <hi>.16.</hi> Question.</hi>
+               </speaker>
+               <p>
+                  <hi>How then is it poſſible to pray, to haue our prayers perfect before God, when we pray, good ſir certifie vs.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>The fathers aunſwere.</speaker>
+               <p>By a firme, conſtant, and ſure faith on &amp; in Ieſus Chriſtes merits, with a true humble, harty, &amp; ſorrowfull ſobbing re<g ref="char:EOLhyphen"/>pe<g ref="char:cmbAbbrStroke">̄</g>tance of our wicked life paſt, proſtra<g ref="char:EOLhyphen"/>ting our ſelues, moſt humble &amp; reuerent<g ref="char:EOLunhyphen"/>ly before Gods mercy ſeat, crauing mer<g ref="char:EOLunhyphen"/>cy of god for all our ſins paſt, for chriſts ſake, &amp; then craue grace of our good and loouing father, for his grace and holye ſpirite to frame in vs a better lyfe,
+<pb facs="tcp:11553:20"/> without which ſpirite it is vnpoſſible for God to heare vs, and then be thank<g ref="char:EOLhyphen"/>full vnto God, for all his benefites both ſpirituall and corporall, beſtowed vpon vs all our life time, vnto this preſent hower, but eſpecially for our election, creation, ſaluation, iuſtification, ſancti<g ref="char:EOLhyphen"/>fication, and preſeruation, vnto this pre<g ref="char:EOLunhyphen"/>ſent day, and hower, that is to ſay, firſt, becauſe God hath elected and choſen vs to ſaluation, before that the world was made or created, and ſecondly, for that he hath created vs men and women, &amp; not beaſtes, but made vs chriſtians and not infidels, or Pagans. And thirdely that he hath ſo loued vs, that he h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th gi<g ref="char:EOLhyphen"/>uen vs his onely ſonne, to be our onelye and alone ſauiour, redéemer, mediator, and aduocate, betweene God and vs, &amp; continually be thankefull vnto God for that he hath giuen vnto vs his holye word, to be peaceably preached amongſt vs, and that we are borne in ſuch a mer<g ref="char:EOLhyphen"/>cifull Princes time. And firſt alſo let vs continually pray vnto the almightie, for the preſeruation of her Maieſties longe &amp; proſperous raygne, for all her Coun<g ref="char:EOLhyphen"/>ſell, Cleargie, Nobilitie, and for al Ma<g ref="char:EOLhyphen"/>giſtrates,
+<pb facs="tcp:11553:20"/> Citties, Corporations, Com<g ref="char:EOLhyphen"/>panies, and fraternities, and for all men kinredes, Countries, and Nations, but eſpecially, for his Church diſperſed, diſ<g ref="char:EOLhyphen"/>piſed of all the world, and wicked wor<g ref="char:EOLhyphen"/>lings, and for the continuance of his ho<g ref="char:EOLhyphen"/>ly word, decreaſe of our fayth, loue, ho<g ref="char:EOLhyphen"/>ly ſpirite, wiſedome, grace, and zealous preachers amongſt vs, for euer, and to conuert or confounde all Amaziaſes, Zedochiazes, and paſſurs, all Dombe Dogges, Idle ſhepheards, hippocrites, Hirelinges, Traytors, Papiſtes. Athe<g ref="char:EOLhyphen"/>iſtes, Epicures, Bellie gods, and all proud and prophane perſons, merciles, miſerable, wiſe worldly wyſardes, and to bring into the way of truth all ſuche as doo erre and are deceiued. And to be mercifull vnto all ſuche as are in anye neede, miſerie, pouertie, priſon, or extre<g ref="char:EOLhyphen"/>mitie, but eſpecially to pray for chriſtes Churche, priſoned, perſecuted, tormen<g ref="char:EOLhyphen"/>ted, and tortered, and for all ſuch as are perplexed in mind or body, in the bedds of their ſickeneſſe, or in the perrill of death, and that it would pleaſe God to forgiue vs all our ſinnes, negligences &amp; ignorances, and to amend <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r liues ac<g ref="char:EOLhyphen"/>cording
+<pb facs="tcp:11553:21"/> to his holy word, that we may liue in holineſſe and righteouſneſſe be<g ref="char:EOLhyphen"/>fore him, all the dayes of our liues, and then after all theſe prayers, medita<g ref="char:EOLhyphen"/>tations, and thankes. We muſt aſke boldly, of our good God, althings neceſſa<g ref="char:EOLhyphen"/>ry for this life, if it be his will for Chri<g ref="char:EOLhyphen"/>ſtes ſake, with a ſure and conſtant fayth and beléefe, to obtayne all our petitions and prayers at gods hande, for Ieſus chriſtes ſake. In whoſe name we muſt alwayes conclude all our prayers, with the ſame prayers that Chriſte hath taught vs to pray. <hi>Our father. &amp;c.</hi>
+               </p>
+            </sp>
+            <div type="conclusion">
+               <head>The concluſion or glaſſe.</head>
+               <p>Thus ye ſée (as it were) in a glaſſe how ye ought to pray, and in what ma<g ref="char:EOLhyphen"/>ner and ſort, and agayne ye haue hard<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> before, how ſenceleſſe and daungerous, many thouſands that are called chriſti<g ref="char:EOLhyphen"/>ans pray at this day: how deſirous they are of all the worldly bleſſinges, before heauenly and ſpirituall, becauſe they are vnregenerated and worldlyminded. Vnto whome all thinges which they poſſeſſe are vncleane and curſed. You haue hearde alſo, who are thoſe that feare God and not loue him, euen ſuche
+<pb facs="tcp:11553:21"/> I ſay that doth not knowe howe to ho<g ref="char:EOLhyphen"/>nour God, not how to ſerue him, nor when they commit ſpirituall Idolatrie, nor whe<g ref="char:cmbAbbrStroke">̄</g> they do abuſe gods holy name, nor when they prophane or abuſe the Lordes day: neyther yet knowe the great difference betwéene the firſt table and the ſeconde, that is they knowe not holyneſſe from righteouſneſſe, I ſaye gods right from mans weakeneſſe, that is, a true fayth, fro<g ref="char:cmbAbbrStroke">̄</g> mans workes which are corrupt actiue from profound paſ<g ref="char:EOLhyphen"/>ſiue righteouſneſſe which is as great difference, as is betwéene gods almigh<g ref="char:EOLhyphen"/>ty maieſtie, and mans weake imbeſſili<g ref="char:EOLhyphen"/>tie, ſuch I ſay, that neyther knowe the articles of their fayth, nor vnderſtande what true beléefe is, neyther yet knowe what prayer is, nor do knowe howe to pray, neyther yet know what a Sacra<g ref="char:EOLhyphen"/>ment is, &amp; yet dare preſume to ſaye that they are ſaued, onely becauſe they are baptiſed, &amp; yet do lyue worſe th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n Infi<g ref="char:EOLhyphen"/>dells, yea, dare preſume to receyue the holy communion, &amp; yet violate &amp; pollute the ſeales therof, theſe are thoſe which are a ſléep, yea dead, &amp; yet aliue, theſe are papiſtes, Atheiſtes, Epicures, Earnall
+<pb facs="tcp:11553:22"/> Proteſtants, and all thoſe wiſe wordly wiſards, whoſe kitching is their church and belly their God, and all their glory euerlaſting ſhame and confuſion. Oh Lorde reclayme them if it be thy will with thy loud cal or lure, the preaching of thy Goſpel that they may be brought into the tentes of <hi>Sem,</hi> being yet ram<g ref="char:EOLhyphen"/>miſh, haughtie, haggerdes, deſcended from y<hi rend="sup">e</hi> vnclea<g ref="char:cmbAbbrStroke">̄</g>e cage of <hi>Iaphet,</hi> &amp; as ſome learned affirme, the elder brother of <hi>Sem.</hi> Graunt this O God, for Chriſtes ſake our onely Lorde and ſauiour.</p>
+               <sp>
+                  <speaker>
+                     <hi>An other question of the ſonne. <hi>
+                           <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>7.</hi>
+                     </hi>
+                  </speaker>
+                  <p>Father, I haue heard you ſay manye times, when you haue reproued manye that ſweare by their fayth, you haue ſayd that they were as good ſweare by y<hi rend="sup">e</hi> Trinitie, the father, the ſonne, and the holy Ghoſt? Howe can that be, doo wée ſweare by them when we ſweare by our fayth.</p>
+               </sp>
+               <sp>
+                  <speaker>The fathers aunſwere.</speaker>
+                  <p>Yea is not your faith a ſtedfaſt beléefe in God the father, the ſonne, and the ho<g ref="char:EOLhyphen"/>ly Ghoſt. And is it not the whole ſomm of our beliefe, which we daylie confeſſe when we ſay, I beléeue in God the fa<g ref="char:EOLhyphen"/>ther
+<pb facs="tcp:11553:22"/> almightie, and in Ieſus Chriſt his onely ſonne our Lorde, and the holye Ghoſt, &amp;c. Do you not then ſweare by the Trinitie, when you ſweare by your beléefe, whiche is the verye Chriſtians fayth, and is not your fayth a ſure hope hold and confidence, on and in the father the ſonne, and the holy Ghoſt, by and through the merits and paſſion of chriſt Ieſus, with a ſirme beléefe, true and pure vnderſtanding of his holy worde and Sacramentes vnto life euerlaſting.</p>
+               </sp>
+               <sp>
+                  <speaker>The wife and ſonnes aunſwere, with an other Queſtion.</speaker>
+                  <p>
+                     <hi>Yes verily, and ſo we now confeſſe, and are fully reſolued, but nowe we praye you, let vs vnderſtand the ſence or mea<g ref="char:EOLhyphen"/>ning of a Sacrament, and what it is.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>The fathers aunſwere, or difinition.</speaker>
+                  <p>A Sacrament is, when the holy word of God is ioyned with an element as in Baptiſme the word is ioyned with the element, water, and in the Lordes ſup<g ref="char:EOLhyphen"/>per the word is ioyned with elementes bread, and wine, the whith elementes and word ioyned together, doth make the definition of a Sacrament, and the meaning of a Sacrament is a true and
+<pb facs="tcp:11553:23"/> viſible ſigne, of an inuiſible grace, that is the <hi>.3.</hi> Elements to be ſéene, as the ve<g ref="char:EOLhyphen"/>ry water bread and wine, is veryly pre<g ref="char:EOLunhyphen"/>ſent in our ſight, euen ſo that inuiſible grace working in our harts, by the ſpi<g ref="char:EOLhyphen"/>rite and power of God, by faith althings neceſſary for our ſaluatio<g ref="char:cmbAbbrStroke">̄</g>, by &amp; through Ieſus Chriſt, and they are alſo ſure ſea<g ref="char:EOLhyphen"/>les of the certaintie of our fayth.</p>
+               </sp>
+               <sp>
+                  <speaker>
+                     <hi>The ſonnes <hi>.19.</hi> Question.</hi>
+                  </speaker>
+                  <p>
+                     <hi>We pray you ſir, whether do the Sa<g ref="char:EOLhyphen"/>craments of them ſelues giue grace to the faithful receyuers or no? We praye you certifie vs, or ought we to worſhip them as God,</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>The fathers aunſwere.</speaker>
+                  <p>They neyther of them ſelues nor in them ſelues, doth include or giue anye grace, for it is the onely gift and worke of the holy Ghoſt: neyther are they to be worſhipped as God, but we ought to eleuate<g ref="char:punc">▪</g> or lift vp our hartes vnto Ie<g ref="char:EOLhyphen"/>ſus Chriſt, who is in heauen our onelye mediator and aduocate, vnto God our father for vs, and that onely by fayth, who is the onely author of theſe ſacra<g ref="char:EOLhyphen"/>mentes commaunding ſo often as we vſe them to do it, in y<hi rend="sup">e</hi> reme<g ref="char:cmbAbbrStroke">̄</g>brance of his
+<pb facs="tcp:11553:23"/> laſt comming when we ſhall receiue it in full ioy with him in his euerlaſting kingdome, &amp; yet they are holy ſignes &amp; ſeales of our fayth, &amp; as it were by an inſtrument, God doth worke and ſeale grace in our harts, only by the hande of fayth, neither yet are they bare &amp; naked ſignes, but grace is truely preſented to our fayth, when and ſo often as we re<g ref="char:EOLhyphen"/>ceiue the ſame with a firme fayth &amp; con<g ref="char:EOLhyphen"/>ſtant beléefe, in y<hi rend="sup">e</hi> only merites of chriſte Ieſus our onely Lord and Sauiour.</p>
+               </sp>
+               <sp>
+                  <speaker>
+                     <hi>The <hi>.20.</hi> Question.</hi>
+                  </speaker>
+                  <p>
+                     <hi>We pray you ſir, is there any more ſa<g ref="char:EOLhyphen"/>craments then two, for I haue heard ſome ſay there are fiue, &amp; ſome affirme there are ſeuen, but we are taught in our church there are but only two.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>The fathers aunſwere.</speaker>
+                  <p>Howe many ſoeuer the peſtilent pa<g ref="char:EOLhyphen"/>piſtes haue in their ſinfull ſinagogue whether they haue fiue, ſeuen or ſeuen hundred, that is nothing to vs<g ref="char:punc">▪</g> for euery ſeremoniall thing or ſeremony, or any thyng els whiche they thinke is holye in theyr Holye Holie Church or ſinna<g ref="char:EOLhyphen"/>gogue, muſt vpon payne of the Popes curſſe, be holy adorned and worſhipped<g ref="char:punc">▪</g>
+                     <pb facs="tcp:11553:24"/> for it is with them a ſacrament, or as great, yea the very duſt and ſwéeping of their Sinagogue, but in Chriſtes holye Churche, there is nor neuer was more then two, thone is Baptiſme, &amp; y<hi rend="sup">e</hi> other is y<hi rend="sup">e</hi> Lords Supper, for by y<hi rend="sup">e</hi> firſt we are receyued into Chriſtes Church, and by the other we are nouriſhed by fayth in our ſoules into life euerlaſting, and al<g ref="char:EOLhyphen"/>ſo remember Chriſtes death vntill hée come agayne to be our ioyfull iudge.</p>
+               </sp>
+               <sp>
+                  <speaker>
+                     <hi>The ſonnes <hi>21.</hi> Question.</hi>
+                  </speaker>
+                  <p>
+                     <hi>We pray you ſir certifie vs more plain<g ref="char:EOLhyphen"/>ly what is the true ſence, ſubſtance, and meaning of Baptiſme.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>The fathers Aunſwere.</speaker>
+                  <p>Baptiſme is the holy ſacrament of our regeneration or newe birth, &amp; vniting and incorporating of vs vnto the body of Chriſt, being therby made a member of his Church, by which Sacrament we are purged and waſhed from al our ſinnes, for as the water waſheth awaye all our filthineſſe of the bodie, euen ſo, by fayth, the blood of Chriſt ſprinckled on our ſoules by the hand of faith waſh<g ref="char:EOLunhyphen"/>eth away all our ſinnes, yea, and alſo all our paynes due vnto the ſame, &amp; ſo be<g ref="char:EOLhyphen"/>ing
+<pb facs="tcp:11553:24"/> made members of Chriſtes owne body, we are partakers of all the bene<g ref="char:EOLhyphen"/>fites and bleſſinges of Chriſt our elder brother and head, if we daylie die vnto ſinne, &amp; lyue vnto righteouſneſſe, which is called mortification of life, for except we be regenerated into a ſpirituall bo<g ref="char:EOLhyphen"/>dy, we ſhall neuer be partakers of chri<g ref="char:EOLhyphen"/>ſtes naturall body, and then voyde of all the benefites of Chriſtes paſſion, which is the ſom and effect of all our fayth, ſa<g ref="char:EOLhyphen"/>cramonts and religion? For to be world<g ref="char:EOLunhyphen"/>ly minded, is death euerlaſting, but to be ſpiritually minded, is life euerlaſt<g ref="char:EOLhyphen"/>ing, ſayth. S. <hi>Paul,</hi> vnto the which god graunt vs for his mercy ſake.</p>
+               </sp>
+               <sp>
+                  <speaker>
+                     <hi>The ſonnes <hi>.22.</hi> Queſtion.</hi>
+                  </speaker>
+                  <p>
+                     <hi>I pray you ſir, is there any ſuch neceſſi<g ref="char:EOLhyphen"/>tie in Baptiſing young children that is if they die before they be baptiſed, that they are damned, as ſome affirme, for the ſcripture ſavth except ye be Bap<g ref="char:EOLhyphen"/>tiſed, ye cannot be ſaued.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>The fathers aunſwere.</speaker>
+                  <p>Neyther is ſaluation tyed vnto theſe that are baptiſed nor yet damnation vn<g ref="char:EOLhyphen"/>to ſuch as are vnbaptiſed, no more then they were all ſaued that were circum<g ref="char:EOLhyphen"/>ciſed,
+<pb facs="tcp:11553:25"/> and all damned that were vncir<g ref="char:EOLhyphen"/>comciſed, for then what had become of all the children that dyed in the wilder<g ref="char:EOLhyphen"/>neſſe, and all the women <hi>Iewes,</hi> and all the Gentiles that neuer had circumciſi<g ref="char:EOLhyphen"/>on. But that is all Papiſtes religion, &amp; popiſh womens opinion. For. S. <hi>paul</hi> ſaith, that neyther circumciſion nor vn<g ref="char:EOLhyphen"/>circumciſion doth preuaile any thing, but a new creature, for euery faythfull chriſtian, doth beléeue that his childe is ſanctified in the mothers wombe, if ey<g ref="char:EOLhyphen"/>ther of them be faythfull, and alſo ſaued fro<g ref="char:cmbAbbrStroke">̄</g> euerlaſting damnation, by the fayth of their Parents, if eyther of them be faythfull Chriſtians, or els our ſéede wers vncleane, but if both Father and Mother are infidelles or Papiſtes, then I doubt what their childre<g ref="char:cmbAbbrStroke">̄</g> are. Becauſe S. <hi>paul</hi> ſo affirmeth to the Corrinthi<g ref="char:EOLhyphen"/>ans, in his firſt Epiſtle the <hi>.7.</hi> Chapter and the <hi>.14.</hi> verſe. But becauſe we are the children of wrath, by <hi>Adams</hi> corrup<g ref="char:EOLhyphen"/>tion, vnto whom the promiſe of gods mercy and fauour reacheth vnto lyfe e<g ref="char:EOLhyphen"/>uerlaſting, we therefore bring our children to be Baptiſed, in the ſame fayth that we proteſt, becauſe they are
+<pb facs="tcp:11553:25"/> the ſeales of our fayth.</p>
+               </sp>
+               <sp>
+                  <speaker>
+                     <hi>An other Question or obiection. <hi>23.</hi>
+                     </hi>
+                  </speaker>
+                  <p>Becauſe you ſaid before that the infi<g ref="char:EOLhyphen"/>dells and papiſts childre<g ref="char:cmbAbbrStroke">̄</g> are not chriſti<g ref="char:EOLhyphen"/>ans borne, as you proued by. S. <hi>Paules</hi> words, in the <hi>.7.</hi> Chap. to the <hi>Cor.</hi> and <hi>14.</hi> ver. <hi>1.</hi> Epiſtle, we pray you are Pa<g ref="char:EOLhyphen"/>piſtes no better then infidels, are they not Chriſtians?</p>
+               </sp>
+               <sp>
+                  <speaker>The aunſwere to the obiection.</speaker>
+                  <p>Although they are borne in chriſten<g ref="char:EOLhyphen"/>dome, yet are they not therefore true chriſtians, no more then they are al true Engliſh men that are borne in Engla<g ref="char:cmbAbbrStroke">̄</g>d, there ſhould not be ſo many Mongrills, neyther yet ſo many vnnatural rebels, as the trayterous vile Ieſuites, &amp; filthy papiſtes, that are borne in Englande, neyther loueth God, Chriſt, Prince, nor yet their owne natiue cuntrie, of which ſorte I woulde there were not ſo many in this land. But to our purpoſe and proofe, is it poſſible for ſuch to be Chriſ<g ref="char:EOLhyphen"/>tians, that are gods vtter enimies? Is it poſſible for him to be a chriſtian that denyeth Chriſtes powes to be ſufficie<g ref="char:cmbAbbrStroke">̄</g>t for our ſaluation, but the peſtilent
+<pb facs="tcp:11553:26"/> Papiſtes, and Traytors, Ieſuites, de<g ref="char:EOLhyphen"/>nieth and teacheth that fayth onely in Chriſtes merites, is not ſufficient for our ſaluation, therefore it is not poſſi<g ref="char:EOLhyphen"/>ble that any ſuch Papiſtes can be chriſ<g ref="char:EOLhyphen"/>tians. And except their righteouſneſſe excéede the righteouſneſſe of the ſcribes and Phariſies, they ſhall neuer come where Chriſtes kingdome is, the ſcribs and phariſies beléeued, that becauſe they were <hi>Abrahams</hi> children, and circum<g ref="char:EOLhyphen"/>ciſed, therfore they were ſaued. And the Papiſts belefe is, becauſe they haue left in them ſome féede of grace to doo good workes by it, they deſerue ſaluation, &amp; becauſe they are Baptiſed, and ſo they ſhall with the vnbeléeuing Iewes that were circumciſed, &amp; therfore (good chil<g ref="char:EOLhyphen"/>dren) of all people beware the Papiſts.</p>
+               </sp>
+               <sp>
+                  <speaker>
+                     <hi>The ſonnes <hi>.24.</hi> Question.</hi>
+                  </speaker>
+                  <p>
+                     <hi>I pray you good father certifie vs alſo of the holy communion, and as you haue don of Baptiſme, the true ſence &amp; effect thereof.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>The fathers aunſwere.</speaker>
+                  <p>This Sacrament is the ſigne, ſeale, and pledge of our ſaluation, &amp; redempti<g ref="char:EOLhyphen"/>on which Chriſts our ſauiour hath left
+<pb facs="tcp:11553:26"/> vs to remember his precious death and paſſion, and to increaſe our fayth vntyll he come agayne to be our ioyfull iudge, and ſo remember that by the mercifull eating and drinking of Chriſtes very body and blood, in the ſubſtance of bread and wine, by a firme fayth, we are ſure<g ref="char:EOLhyphen"/>ly partakers of all the benefites and bleſſinges of Chriſtes death and paſſion, for as the material bread doth comforte our hartes, and the naturall wine doth reuiue our ſpirites and ſences, euen ſo the ſpirituall eating of Chriſtes bodie, the true bread of life, doth comforte our ſpirituall bodies, &amp; the ſpiritual drinke<g ref="char:EOLhyphen"/>ing of his precious blood, ſhed for vs on the croſſe, doth reuiue and reioyce all our ſpirituall ſences and powers of the ſoule, vnto life euerlaſting, if we lift vp our hartes and mindes vnto Chriſte, which is in heauen, and with al thanks féede on him by fayth. This is the true and right receyuing of the Lordes ſup<g ref="char:EOLhyphen"/>per, and the true ſence and meaning, in which we muſt remember Chriſtes death and paſſion, vntil he come againe to be our ioyfull iudge.</p>
+               </sp>
+               <sp>
+                  <speaker>
+                     <hi>The ſonnes <hi>25.</hi> Question.</hi>
+                  </speaker>
+                  <pb facs="tcp:11553:27"/>
+                  <p>
+                     <hi>I pray you ſir, how muſt we frame our ſelues for to receyue this holy ſacra<g ref="char:EOLhyphen"/>ment faithfully and worthily.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>The fathers Aunſwere.</speaker>
+                  <p>Firſt we muſt remember the grée<g ref="char:EOLhyphen"/>uouſneſſe of our ſinnes, from the verie bottome of our hartes, and vnfaynedly deteſt them, and euer after frame and force our ſelues vnto a godly, vertuous, and ſober life, ſecondly we muſt trye, and examine our ſelues, whether we haue a true, firme, and a conſtant fayth, on and in the promiſes of Chriſte Ieſus or no? And thirdly we muſt hum<g ref="char:EOLhyphen"/>bly, louingly and brotherly, yea &amp; faith<g ref="char:EOLhyphen"/>fully, reconcile our ſelues vnto ſuche as in any kind we haue offended euen vn<g ref="char:EOLhyphen"/>to our enimies, and ſo hauing left our gyft on the alter, we may then come boldly &amp; offer our gyft in Chriſtian loue &amp; charitie, with out the which we muſt not dare preſume to receyue the holy communion, this is the beſt way that I know, howe to frame our ſelues to re<g ref="char:EOLhyphen"/>ceyue this holy ſacrament.</p>
+               </sp>
+               <sp>
+                  <speaker>
+                     <hi>The ſonnes <hi>.26.</hi> Question.</hi>
+                  </speaker>
+                  <p>
+                     <hi>I pray you ſir, doth all men that re<g ref="char:EOLhyphen"/>ceyue this ſacrament, receiue the ſpiri<g ref="char:EOLhyphen"/>tuall graces alike.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <pb facs="tcp:11553:27"/>
+                  <speaker>The fathers aunſwere.</speaker>
+                  <p>As in Baptiſme, none but the faithfull doth receyue y<hi rend="sup">e</hi> forgiueneſſe of ſinnes, e<g ref="char:EOLhyphen"/>uen ſo, none in the Lords ſupper, are partakers of the benefites and graces of Chriſt, but ſuch as receyue him with a true and vnfayned fayth, as for the faith les they receiue, not the thing finiſhed, but a bare ſacrament vnto their vtter deſtruction. From the which the almigh<g ref="char:EOLunhyphen"/>tie of his mercy deliuer vs, for euer.</p>
+               </sp>
+               <sp>
+                  <speaker>
+                     <hi>The ſonnes <hi>.27.</hi> Question.</hi>
+                  </speaker>
+                  <p>
+                     <hi>I pray you good father, let me aſke you one queſtion more which is this, we reade in the .14. Pſal. of Dauid, theſe words, there is (ſaith the prophet) no good man, no not one, and in his <hi>.37.</hi> pſal. he playnely expreſſeth both a iuſt &amp; a wicked ma<g ref="char:cmbAbbrStroke">̄</g>. I pray you good father make thoſe ſcriptures agree that I may be reſolued.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>The fathers aunſwere.</speaker>
+                  <p>My ſonne marke this wel, &amp; it doth me good, that you aſke ſuch queſtions, for it commeth not from fleſhe and blood, Theſe holye ſcriptures are both very true. As for the firſt wordes in the <hi>14.</hi> Pſalme. That there is none good, no
+<pb facs="tcp:11553:28"/> not one, God by the holy prophet ſpea<g ref="char:EOLhyphen"/>keth it to the wicked worldlinges, the ſenceleſſe Athiſtes, and vnregenerated men. That man that ſayth in his hart there is no God. As. S. <hi>Paul</hi> affirmeth in the <hi>.3.</hi> Chapter of his Epiſtle to the <hi>Rom.</hi> the <hi>.10.11.12.13.</hi> verſes. In whiche he deſcribeth the qualities of the wic<g ref="char:EOLhyphen"/>ked. Read that Chapter, but in reſpecte to compare with God, there is indéede none good but God, his onely ſonne Ie<g ref="char:EOLhyphen"/>ſus Chriſt our Lorde who is both God and man. For to compare with God, there is none good, no not one. But to affirme the wordes of the holy Ghoſte, in the <hi>.37.</hi> Pſalme. Doubtleſſe there is on the earth both good men, euyll, iuſt and vniuſt, righteous and wicked, the e<g ref="char:EOLhyphen"/>lect and reprobate, ſaintes, and deuilles incarnate, for God him ſelfe doth iuſti<g ref="char:EOLhyphen"/>fie <hi>Iobe</hi> to be a iuſt man, and yet he was but a man, and the holy ghoſt deſcribeth a iuſt man by <hi>Iob,</hi> ſaying, that ſuche as feareth God, eſcheweth euyll, and doth good, but in the <hi>.37.</hi> Pſalme. The holie Ghoſt deſcribeth at large a iuſt man, and alſo a wicked, for the thirtie verſe of this Pſalme, hath theſe wordes, the
+<pb facs="tcp:11553:28"/> iuſt man ſayth he<g ref="char:punc">▪</g> his mouth doth euer ſpeake of matters wiſe and high, and his tongue doth talke to edifie, but con<g ref="char:EOLhyphen"/>trary, the wicked man blaſphemeth the Lord, and ſéeketh howe to ſlay the righ<g ref="char:EOLhyphen"/>teous. Alſo in the <hi>.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>1.</hi> ver. before is ſayde, that the wicked borroweth muche and neuer payeth agayne of the abundance which God hath lent him, but the iuſte is liberall and lendeth, alſo in the <hi>35.</hi> &amp; <hi>36.</hi> verſe of this Pſalme. The prophet ſayth, I haue béen young, and nowe am olde, yet did I neuer ſée the righteous forſaken, nor his ſéede begging their breade, in diuers and many places in the holy ſcriptures. For in the <hi>33.</hi> Pſal. the Prophet ſayth, reioyce ye righteous for it becommeth vpright men to be thankefull. Alſo in the Prouerbs of <hi>Sa<g ref="char:EOLhyphen"/>lomon,</hi> the <hi>.10.</hi> Chapter and the <hi>.3.</hi> verſe, ſayth that the Lord will not famiſh the ſoule of the righteous, but he caſteth a<g ref="char:EOLhyphen"/>way the ſubſtance of the wicked, and in Eccleſiaſtes, the preacher ſayth, in his <hi>3.</hi> Chapter and <hi>17.</hi> ver. <hi>I thought in mine hart that God woulde iudge the iuſt, and the wicked, for there is a time for all workes.</hi> Alſo the Euange<g ref="char:EOLhyphen"/>liſt.
+<pb facs="tcp:11553:29"/> S. Mathew, in his firſt Chap, and <hi>9.</hi> verſe. Pronounceth <hi>Ioſeph</hi> the huſ<g ref="char:EOLhyphen"/>band of <hi>Mary,</hi> a iuſt man. Alſo. S. <hi>Peter</hi> termeth <hi>Lot</hi> a iuſt man in his <hi>.2.</hi> Chap. and <hi>.7.</hi> verſe. Throughout the whole ſcriptures, the holy Ghoſt iuſtifieth that there is both iuſt and wicked men. But it is a corſie to a cankered Atheiſt to heare a man ſpeake of a good man, then he will ſtorme and frette and qualifie you with this <hi>.14.</hi> Pſalme, ſaying, there is not one good or iuſt man, no not one, and we are all ſinners, &amp;c. But they ſpeake it, becauſe they woulde haue all men like them, and they bring in Saint <hi>Paules</hi> wordes, ſaying, that God hath lapped all men vnder ſinne becauſe he will haue mercy on all men, and he wil not the death of a ſinner, and therefore we hope all ſhalbe ſaued. But yet the wicked ſhall all goe quicke to hell.</p>
+               </sp>
+               <sp>
+                  <speaker>
+                     <hi>An other question of the ſonne. <hi>28.</hi>
+                     </hi>
+                  </speaker>
+                  <p>
+                     <hi>Father, becauſe that. S.</hi> Paul <hi>ſayth, that God will haue all men to be ſaued &amp; come to the knowledge of the truth, and alſo as you haue ſaide defore, that Saint</hi> Paul <hi>ſaith, that God hath lapped al men vnder ſinne, &amp; that he wil haue
+<pb facs="tcp:11553:29"/> mercy vpon all. This ſcripture is plaine and I thinke that god wil ſaue al men, we pray you giue vs the true ſence and meaning thereof.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>The fathers aunſwere.</speaker>
+                  <p>My ſonne, indéed the wordes are plaine but many do erre, becauſe they knowe not the ſcriptures, nor the true ſpiritual ſence thereof, and the cauſe of their er<g ref="char:EOLhyphen"/>rour is becauſe they pray not for the ho<g ref="char:EOLhyphen"/>ly ſpirit of God to teache them, neyther yet giue faithful eare vnto y<hi rend="sup">e</hi> preachers of gods word. For. S. <hi>Paul</hi> meaneth by this word, all men, all manner of men, that is, God will ſaue ſome of all ſortes and degrées, &amp; of all countries and kin<g ref="char:EOLhyphen"/>reds, that is of all ſortes of kinges and Princes, Nobles, Maieſtrats, Marcha<g ref="char:cmbAbbrStroke">̄</g>
+                     <g ref="char:EOLhyphen"/>tes, Artificers, laborers, poore men, ſla<g ref="char:EOLhyphen"/>ues, bondme<g ref="char:cmbAbbrStroke">̄</g>, Iewes, Turkes, Infidels, Papiſts, &amp; pagans, yea Atheiſts, Epicu<g ref="char:EOLhyphen"/>res, Ieſuits, and familiſtes, alſo all ſorts of people, if they repent, &amp; be conuerted vnto Chriſt, of all ſorts he will cal ſome for God hath no reſpect of perſons, for he would not the death of a ſinner, but y<hi rend="sup">e</hi> he ſhould co<g ref="char:cmbAbbrStroke">̄</g>uert &amp; liue, &amp; this is y<hi rend="sup">e</hi> mea<g ref="char:EOLhyphen"/>ning of y<hi rend="sup">e</hi> holy ghoſt by. S. <hi>Pauls</hi> words.</p>
+               </sp>
+               <sp>
+                  <pb facs="tcp:11553:30"/>
+                  <speaker>
+                     <hi>The ſonnes <hi>.29.</hi> Queſtion.</hi>
+                  </speaker>
+                  <p>
+                     <hi>Father, can a man ſhorten theſe daies which God hath appoynted, hym to liue on earth before his time, becauſe the prophet</hi> Dauid <hi>ſayth in his <hi>.55.</hi> Pſal. and the laſt verſe thereof That the wic<g ref="char:EOLhyphen"/>ked ſhall not liue out halfe their dayes, hath not God (ſaith the prophet) ap<g ref="char:EOLhyphen"/>poynted euery man how long he ſhall liue, the which he ſhall not paſſe, and ſhall mans wickedneſſe preuent God, for he hath numbred mans dayes howe long he ſhall liue, good father reſolue vs in this.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>The fathers aunſwere.</speaker>
+                  <p>If God were not almightie, then man might preuent him, but ſurely God hath numbred the dayes of man, which he ſhall not paſſe, no not one hower or mi<g ref="char:EOLhyphen"/>nute, therefore mans wickedneſſe can<g ref="char:EOLhyphen"/>not preuent God, neyther yet ſhorten the time and houre that God hath ſette downe, and yet the worldly couetous, bloodthirſtie and diſpitefull man ſhall not liue out halfe his dayes, as the holye Ghoſt affirmeth in the <hi>.55.</hi> Pſalme, and laſt verſe. But the prophet <hi>Dauid,</hi> nor the holy ghoſt neaneth not by theſe
+<pb facs="tcp:11553:30"/> wordes any of thoſe dayes which God hath appoynted him to liue, no not to ſhorten any one hower of thoſe dayes although he ſhould kil, hang, or drowne him ſelfe, yea murder or ſteale, and by the lawe be cut offe, yet can he not pre<g ref="char:EOLhyphen"/>uent God, for he ſéeth and ſuffereth him vntill his hower appointed of God, who in mercy did ſuffer him to liue &amp; repent, but this is the meaning of theſe words, halfe his dayes, the holy Ghoſt by the mouth of the Prophet ſpeaketh vnto the couetous wicked worldlinges, whiche ſcrape ſo for the cromes that fall from gods childre<g ref="char:cmbAbbrStroke">̄</g>. I meane the wealth, pelfe, and pleaſures of this preſent worlde, being ſo in loue with it more then God that they ſell both their bodies &amp; ſoules to the diuell to poſſeſſe it, and ſo poynt them felues their dayes to liue, for (ſay they) If I can get and ſcrape to be able to liue with the beſt of my neighbours, and then liue to beare the offices in the Citie, and in countenaunce and credit in the worlde, alſo to liue yet longer to be in aucthoritie, then I will ſerue God and be mercifull. But beholde, or theſe his appoynted dayes be accompliſhed,
+<pb facs="tcp:11553:31"/> the houre glaſſe of dais, that god hath ſet him is run out &amp; accompliſhed ſo ſodainely if he re<g ref="char:EOLunhyphen"/>pent not he ſlippeth downe to hel, &amp; ſo preuen<g ref="char:EOLhyphen"/>ted of his appointed daies, and ſo the wicked liueth not out halfe his daies. Which verifieth the words of the holy Ghoſt, by the prophet, in the <hi>.55.</hi> Pſal and laſt ver. <hi>The ſons <hi>.30.</hi> queſtion. I would preſume (good father) to aſke you one or <hi>.2.</hi> queſtions more, If I ſhoulde not be tedious vnto you, and ſo we wil end for this time.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>The fathers aunſwere.</speaker>
+                  <p>Say on, for it pleaſeth me wel ſo long as ye aſke to profit by, or to get knowledge, do not you remember Lillies verſes &amp; good counſell, that ſaith, <hi>qui dubitat, qui ſaepe rogat. &amp;c. is qui nil dubitat. &amp;c.</hi> Therefore aſke good queſtions and ſpare not, and I wil thanke God for you.</p>
+               </sp>
+               <sp>
+                  <speaker>The ſonnes .31. Queſtion.</speaker>
+                  <p>When I had heard the <hi>8.</hi> Chapter of the pro<g ref="char:EOLhyphen"/>uerbs of Salomon<g ref="char:punc">▪</g> as you commaunded me, which Chapter deſcribeth the excellencie of wiſedome, and alſo her good counſell with the antiquitie of Chriſt who is fro<g ref="char:cmbAbbrStroke">̄</g> the beginning who made all thinges with the father &amp; the holy ghoſt, for he is that worde which God ſpake, &amp; al things were made<g ref="char:punc">▪</g> as the Euan<g ref="char:EOLhyphen"/>geliſt. S. Iohn affirmeth in the .1. Cha, of his Goſpell, &amp; that is this, Chriſt dwelleth in the round compaſſe of this earth, which is man, I the<g ref="char:cmbAbbrStroke">̄</g> turned to the <hi>.7.</hi> Chap. of Eccl. I found. theſe words written, which wordes are theſe which ſéemed to me very ſtraung, be not then (ſaith Salomon) iuſt ouer much, neither o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er wiſe &amp; againe be not thou wicked ouer much,
+<pb facs="tcp:11553:31"/> neither too wiſe. Theſe words are verie harde for my capacitie. Doth the holy ghoſt alowe ſome infirmities or ſome follie Alſo in the <hi>.29.</hi> and <hi>.30.</hi> verſe. of the ſame Chapter, the prea<g ref="char:EOLhyphen"/>cher hath theſe ſtrange wordes, my ſoule (ſaith he) hath made great inquiſition, but I finde it not. I haue ſéene one ma<g ref="char:cmbAbbrStroke">̄</g> among thouſands, but one woman found I not. This alſo trou<g ref="char:EOLhyphen"/>bleth my capacitie, alſo in the, <hi>4.</hi> Chapter of the Preacher, theſe wordes ſomewhat trou<g ref="char:EOLhyphen"/>bleth me, the wordes are in the laſt verſe of the chapter, which are theſe, take héede to thy féete, when thou entreſt into the houſe of god, and be thou more méete to heare then to offer the ſacrifice of fooles. Theſe thrée places of ſcripture I woulde fayne vnderſtand.</p>
+               </sp>
+               <sp>
+                  <speaker>The fathers aunſwere.</speaker>
+                  <p>Theſe places of ſcripture, are for the preachers &amp; miniſters to exclaime yet ſo far as God hath giuen me reuelation, I wil ſhew you y<hi rend="sup">e</hi> ſence therof, for in theſe firſt words out of the <hi>.7.</hi> Chap. of <hi>Eccl.</hi> &amp; y<hi rend="sup">t</hi> 
+                     <hi>.19.</hi> verſe. is comprehended great wiſe<g ref="char:EOLhyphen"/>dom, for wher the preacher ſaith, be not thou iuſt ouermuch, nor ouer wiſe, it is far from God, to be a litle vniuſt or a li<g ref="char:EOLhyphen"/>tle fooliſh, or a litle wicked, y<hi rend="sup">e</hi> holye ghoſt giueth very wiſe counſel, for he firſt bid<g ref="char:EOLhyphen"/>deth thée to be ware y<hi rend="sup">t</hi> thou boaſt not to much of thine owne iuſtnes, nor yet of thyne owne wyſedome, nor yet to
+<pb facs="tcp:11553:32"/> tarrie long in the company of the wic<g ref="char:EOLhyphen"/>ked, leaſt thou ſit in the Chaper of the peſtilent ſcorner, as for the <hi>.29.</hi> and <hi>30.</hi> verſe of this Chapter. That the Prea<g ref="char:EOLhyphen"/>cher coulde finde one man and no wo<g ref="char:EOLhyphen"/>man. I take the ſence is that the prea<g ref="char:EOLhyphen"/>cher did meane he could finde but one man with out ſinne, which is Ieſus Chriſt, God and man, but of women ſect he could neuer finde any, and with this text of ſcripture I ſtopped the blaſphe<g ref="char:EOLhyphen"/>mous mouth of the Papiſticall Lady that kept ſuch a ſturre with me in your Aunts houſe, at the buriall of your Vn<g ref="char:EOLhyphen"/>cle Temple, when ſhe affirmed that the Virgin <hi>Mary</hi> was without ſinne. I then anſweared her, that the onely man Ieſus Chriſt was. But of wome<g ref="char:cmbAbbrStroke">̄</g> neuer could be found anye, at which péece of ſcripture ſhe was qualified, &amp; ſo I part<g ref="char:EOLhyphen"/>ly take the ſence and meaning of that place, but as for the wordes in the <hi>.4.</hi> Chapter of Eccleſiaſtes, which is, take héede to thy ſéete when thou commeſt into the houſe of God, leaſt thou offer there the ſacrifice of fooles. In this péece of ſcripture, the holy Ghoſt giueth vs a caueat or warning to looke to our
+<pb facs="tcp:11553:32"/> ſteps of lyfe, that they be not euyll and filthie before God, and ſo come polluted and filthie into the Church before God, and ſo preſume to pray, and then our prayers turne vnto ſinne, and ſo proue wicked fooles to prouoke gods wrath on vs, and this I take to be the ſence of this ſcripture.</p>
+               </sp>
+               <sp>
+                  <speaker>
+                     <hi>The ſonnes <hi>.32.</hi> Queſtion.</hi>
+                  </speaker>
+                  <p>
+                     <hi>I pray you (good father) let me aſke you one queſtion more, in which I de<g ref="char:EOLhyphen"/>ſire to be reſolued, which queſtion is ſet downe in the firſt Epiſtle of Saint Iohn, and the .8. verſe of the firſt Chap. The wordes are theſe, if we ſay we haue no ſinne, we deceyue our ſelues, and there is no truth in vs. And in the 3. Chap. of the ſame Epiſtle, and the .9. verſe, is written cleane contrary, for there he ſaith, who ſo euer is borne of God, doth not ſinne, for his ſeede re<g ref="char:EOLhyphen"/>maineth in him, neyther can he ſinne, becauſe he is borne of God, good fa<g ref="char:EOLhyphen"/>ther make theſe ſcriptures agree, that I may be reſolued.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>The fathers aunſwere.</speaker>
+                  <p>In the firſt péece of ſcripture where the Euangeliſt ſaith, if we ſay that we
+<pb facs="tcp:11553:33"/> haue no ſinne, we deceiue our ſelues, &amp; there is no truth in vs. The holy ghoſte condemneth the pure familiſt of loue, which affirme that they haue no ſinne, neyther yet can they ſinne, becauſe they are déeified, and alſo hominified, but let ſuch peſtilent puritantes paſſe, from which ſect good Lorde kéepe vs, and fro<g ref="char:cmbAbbrStroke">̄</g> al iuſtitiaries, which iuſtify the<g ref="char:cmbAbbrStroke">̄</g> ſelues as the wicked Papiſtes, that haue no ſéede of grace left in them, to helpe to worke their ſaluation, and alſo haue works ſuperabundant enough to ſerue them ſelues and others to ſaluation, from which peſtilent ſect good Lorde de<g ref="char:EOLhyphen"/>liuer vs. But as touching the wordes of the ſame Epiſtle, the <hi>.3.</hi> Cha. and <hi>.9.</hi> verſ. where the Euangeliſt ſaith, the regene<g ref="char:EOLhyphen"/>rated man ſinneth not, neyther can he ſinne, becauſe gods ſéede is in him. In this text of ſcripture the holy ghoſt con<g ref="char:EOLhyphen"/>demneth all thoſe Atheiſts, Epicures, Papiſtes, bellie gods, and carnal Pro<g ref="char:EOLhyphen"/>teſtants, &amp; worldlinges which cannot a<g ref="char:EOLhyphen"/>bide to heare that there is any fayth<g ref="char:EOLhyphen"/>full chriſtians on the earth, any rege<g ref="char:EOLhyphen"/>nerated man, ſuch as gréene to ſée God
+<pb facs="tcp:11553:33"/> diſhonoured (nor truely reuerenced,) ſuch as cannot abide to heare gods ho<g ref="char:EOLhyphen"/>lye name abuſed, ſuche as gréeue to ſée the Lordes word prophaned, ſuche as cannot abide to heare anye vayne or fylthie talke, ſuche, the wiſe, proude, loftie worldlinges ſcorne, ſcoffe, deride, and taunt by the name of Puritants preſitious, and are all of the ſpirite, and that he is gods childe, as it is ſayde in the booke of Wiſedome, the ſeconde Chapter. Therefore they cannot a<g ref="char:EOLhyphen"/>byde to heere, that anye ſhoulde bée called good, iuſte or ryghteous, and therefore with Tooth and Nayle, they recyte the fourtéene Pſalme, ſay<g ref="char:EOLhyphen"/>yng, that there is none good, but God, and the fyrſte péece of Scrip<g ref="char:EOLhyphen"/>ture that you recited ſaying, that he whiche ſayth he hath no ſinne, is a lyer. &amp;c. but they wreſt the Scripture, as Sathan dyd to Chriſte, and too clooke theyr fylthineſſe, too dwell in theyr ſinnes and naughtineſſe. And therefore this laſte péece of Scrip<g ref="char:EOLhyphen"/>ture that you recited in the third Chap<g ref="char:EOLhyphen"/>ter of Saint <hi>Iohns</hi> Epiſtle, is written,
+<pb facs="tcp:11553:34"/> for a iuſt condemnation vnto all theſe wiſe worldly wiſardes, the Atheiſtes, and bellie gods, whoſe Ritchin is their Church, and bellie their God, and glory ende with ſhame. And ſo theſe be true, and all men liers.</p>
+               </sp>
+            </div>
+            <div type="advice">
+               <head>A Chriſtian caueat.</head>
+               <p>The holy Prophet <hi>Ieremie</hi> in his <hi>.48.</hi> Cha. of his propheſie, hath theſe words, curſed is he that doth the Lords worke negligently, which curſe taketh holde of all ſuche that abuſe the firſt table, yea the ſeconde alſo, but eſpecially the firſt, for the firſt table excelleth the ſeconde, as much as God excelleth a man. Ther<g ref="char:EOLhyphen"/>fore he that breaketh the firſt table, in a<g ref="char:EOLhyphen"/>ny precept, committeth ſinne, direct a<g ref="char:EOLhyphen"/>gaynſt God his creator, and as the firſt table teacheth vs our duty towards god, y<hi rend="sup">e</hi> 
+                  <hi>2.</hi> our duty towards our neighbours, &amp; brethre<g ref="char:cmbAbbrStroke">̄</g>. And as y<hi rend="sup">e</hi> Lords prayer is deui<g ref="char:EOLhyphen"/>ded into <hi>2.</hi> parts, which <hi>.1.</hi> part teacheth vs to aſke althinges neceſſary for our ſoules, and the ſeconde parte althinges neceſſary for this preſent lyfe, &amp; there<g ref="char:EOLhyphen"/>fore, if God hath taught vs in this firſte table, firſt, to honour &amp; reuerence him, and as Chriſt hath taught vs in his
+<pb facs="tcp:11553:34"/> thrée firſt petitions, firſt to aſke althings neceſſary for our ſoules, if then we prac<g ref="char:EOLhyphen"/>tiſe not firſt, the contentes of the firſte table, which is to honour God, &amp; alſo if we do not firſt aſke all things neceſſarie for our ſouls, as chriſt hath taught vs in y<hi rend="sup">e</hi> 
+                  <hi>3.</hi> firſt petitions, &amp; ſo practiſe them firſt in al our life and actions that man run<g ref="char:EOLhyphen"/>neth I ſay into the euerlaſting curſe of God, becauſe he doth the Lords worke negligently, which he ought firſt to ob<g ref="char:EOLhyphen"/>ſerue and practiſe. As for example, God commaundeth in the firſt table, firſt to honour him, and in the thrée firſt peti<g ref="char:EOLhyphen"/>tions, Chriſt teacheth vs firſt to aſke althinges neceſſary for our ſoules: yf then we do not firſt practiſe theſe in all our life and actions, but ſéeke our owne honor and profite, and fulfiill our owne will and pleaſure firſt, then we runne headlong, wilfully, and deſperatly into the daunger of this damnable curſe, be<g ref="char:EOLhyphen"/>cauſe we neglect the Lords worke, wil and commaundement, as for daylie ex<g ref="char:EOLhyphen"/>ample in theſe dayes to to much practi<g ref="char:EOLhyphen"/>ſed, if a man hauing ſeruants and fami<g ref="char:EOLhyphen"/>lie, dare preſume to prefer his owne commoditie and profit more then the
+<pb facs="tcp:11553:35"/> obſeruation of the Lords day, that man I ſay moſt preſumptuouſly, prouoketh the Lordes great curſſe vpon him, and all his houſe, for if God by his owne mouth commaunded to ſtone to death that man that gathereth but a fewe ſtickes on the Sabboth day, what wyll he doo (thinke you) vnto thoſe that for their owne pleaſure, commoditie, and profit, dare preſume to breake, violate and prophane, the Lord gods expreſſe holy day, will not he (thinke you) curſſe condemne, and vtterly reiect all ſuche wiſe preſumptuous worldly wicked re<g ref="char:EOLhyphen"/>belles, ſuch Atheiſts, Epicures, and bel<g ref="char:EOLhyphen"/>lie gods, whoſe Kitchin is their Church and bellie their God, &amp; glory euerlaſting ſhame and confuſion. Euen ſuch (I ſay) that prouoke their ſeruants to woorke and drudge on the Lordes day, ſuche vile Epicures that make their ſeruants grone vnder their burthens which they carrie to their vile ſodomite and filthy Gardens of vanitie, on the Lordes day, water to water their Gardens, baſkets of victuales, or wine in bottels: and ſo ſpende all the Lordes day in glottonye and drunkenneſſe, which ſeruants wiſh
+<pb facs="tcp:11553:35"/> rather .6. wéeke daies, then on ſunday. Or in what deſperate daunger liueth y<hi rend="sup">e</hi> diueliſh wretches, that drudge all the wéeke, and yéere, to ſpend vainely on the holy dayes, or els on their owne plea<g ref="char:EOLhyphen"/>ſure, and neyther haue reſpect to reme<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>ber that which God hath commaunded vs to remember. Therfore I feare that kyng <hi>Balthaſar</hi> trembled not ſo muche when he ſawe the hand writing on the wall, as theſe prophaners ſhall tremble when Chriſt ſhall come in iudgement with <hi>Ieremies</hi> curſſe, with <hi>ite maledicti</hi> or all theſe prophaners of the Lordes day, except this curſſe be their caueat to repentance.</p>
+            </div>
+            <div type="advice">
+               <head>An other chriſtian caueat to beware of .3. kinde of people.</head>
+               <p>The holy Ghoſt ſayth in the .16. of the Prouerbs, and the .25. verſe, that there is a way which ſéemeth right to a man, and the Iſue thereof leadeth ſtraight to hell. Alſo in the .30. of the ſame Pro<g ref="char:EOLhyphen"/>uerbes, in the .11.12.13. and .14. verſe. By the mouth of <hi>Agar,</hi> the holy Ghoſt deſcribeth foure wicked generations, whiche are theſe. The firſt is a gene<g ref="char:EOLhyphen"/>ration which curſeth father &amp; mother.
+<pb facs="tcp:11553:36"/> The ſeconde is a generation that is pure in their owne eyes, and yet are not waſhed from their filthines. The third is a generation, whoſe eies are hautie and eye liddes are lift vpon hye. The fourth generation is, whoſe téeth are as ſwordes, and their Iawes are as kniues to eate the afflicted and poore from among the children of men. And theſe foure generations are to be com<g ref="char:EOLhyphen"/>pared vnto thrée kindes of Chriſtians, the firſt kind are the Anabaptiſts, Fa<g ref="char:EOLhyphen"/>miliſtes, Papiſts, Libertines, Siſma<g ref="char:EOLhyphen"/>tikes, and Sectuaries, theſe are the two firſt generations which blaſpheme and curſe God their father, and the holye Church their mother, theſe thinke that they are are pure and yet are not waſh<g ref="char:EOLhyphen"/>ed from theyr filthineſſe. The ſeconde kinde of counterfeit chriſtians, are the third generation, whoſe eyes are hauty and eyeledds are lift on hie, theſe are the proud, loftie, vayne, and welthie Proteſtantes, whoſe eyes and eye lidds, diſdayne to ſalute or ſpeake to the poore. Theſe perſwade them ſelues that they are greatly in gods fauour, becauſe they haue a fewe of the childrens cromes,
+<pb facs="tcp:11553:36"/> and a little knowledge and can make ſome arguments of the holy ſcriptures, and haue abilitie to inuite the preſiſeſt preachers to dinner, or ſupper, to haue familiaritie with them, to cloake their déep reſembled hippocriſie, but yet they are no leſſe proude, no leſſe couetous, no leſſe curſed Vſurers, and extortioners, yea full as nice, fine, and vayne as the vileſt Atheiſts bellie gods or Epicures. But as for mercy or compaſſion on the poore &amp; néedie, fie, how they ſpy prie and practiſe to helpe the poore brother vntil they be too to wearie, for they feare not pouertie by their liberalitie, but their hautie eies, and loftie eie lidds, bewrai<g ref="char:EOLhyphen"/>eth their déepe, double; counterfeite, can<g ref="char:EOLhyphen"/>kered fidelitie. Vnto the great ſhame of all faythful &amp; true profeſſers. The third kinde, is the fourth generation are as ſwordes, and chawes as kniues to eate vp the poore. Theſe are the great migh<g ref="char:EOLhyphen"/>tie, wiſe worldlings, whoſe word muſt be a law, which terifie men with their hye wordes and lookes, by which they eate vp the poore. Theſe are the Athe<g ref="char:EOLhyphen"/>iſtes, Epicures, and bellie gods. Theſe
+<pb facs="tcp:11553:37"/> godleſſe perſons breake through y<hi rend="sup">e</hi> laws as Lions through nets, for they are to the<g ref="char:cmbAbbrStroke">̄</g> but as ſpiders cobwebs, theſe force neither for Gods ſake nor mans, and yet they wilbe called chriſtians, but yet they li<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and ſpende their daies all in vani<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e, as though there were neyther God nor diuell, heauen nor hell, reſur<g ref="char:EOLhyphen"/>rection or iudgement, theſe differ no<g ref="char:EOLhyphen"/>thing from Iewes, Turkes, Pagans, yea worſe then infidels, &amp; yet they hope to be ſaued: becauſe they haue the name of Chriſtians, and are Baptiſed, and ſo they ſhall as ſoone as the vnbeléeuing y<hi rend="sup">t</hi> were circumciſed, which is not poſſible, without repentance. For if the Iewes with their iudiſme, and Turkes with their Mahomet, and turkchiſme &amp; Pa<g ref="char:EOLhyphen"/>gans, with their Paganiſme, euen whe<g ref="char:cmbAbbrStroke">̄</g> theſe Infidels, with their infidelity ſhal be ſaued, ſo ſhall the Anabaptiſtes, Fami<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>s, Papiſtes, ciuil proteſtants, <gap reason="illegible" resp="#KEYERS" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>es, Epicures, bellie gods, and worldlye wiſe wiſwards, come to heauen in haſt, but it is vnpoſſible, for without fayth it is vnpoſſible to pleaſe God, muche leſſe to come to heauen. Vnto the which place of reſt, God for
+<pb facs="tcp:11553:37"/> his ſonne Chriſtes ſake bring vs, vnto whom with the father and the holy Ghoſt, be all honour, glory, and domini<g ref="char:EOLhyphen"/>on, now and euer. Amen</p>
+               <p>A péece of glaſſe taken out of the ho<g ref="char:EOLhyphen"/>ly ſcripture, to be ware of pride, coue<g ref="char:EOLhyphen"/>touſnes, pleaſure, and ambition.</p>
+               <p>
+                  <hi>Ioab</hi> ſtriued for honor, <hi>Antiochus</hi> for gold and poſſeſſions, the <hi>Sodomites</hi> for pleaſure, pride, and wanton idleneſſe.</p>
+               <p>But <hi>Ioab</hi> was deſtroyed by wiſe king <hi>Salomo<g ref="char:cmbAbbrStroke">̄</g>,</hi> proude <hi>Antiochus</hi> was eaten vp with wormes aliue, &amp; the mercileſſe vayne <hi>Sodomits</hi> ſunke downe to hell.</p>
+               <p>Looke now and ſée the ende of proude ambition, y<hi rend="sup">e</hi> ende of couetous caitifes, and ſuch as delight in worldly plea<g ref="char:EOLhyphen"/>ſure.</p>
+               <p>But the faithfull chriſtians <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> for fayth and true religion, obtai<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> the euerlaſting crowne of immortality, there for to conclude, let vs heare the ende of all.</p>
+               <pb facs="tcp:11553:38"/>
+               <p>Feare God &amp; kéepe his commaunde<g ref="char:EOLhyphen"/>ments, for this is the whole duty of ma<g ref="char:cmbAbbrStroke">̄</g> for God will bring euery worke vnto iudgeme<g ref="char:cmbAbbrStroke">̄</g>t with euery ſecret thing whe<g ref="char:EOLhyphen"/>ther it be good or euil. Eccle. <hi>12.13.14.</hi>
+               </p>
+               <p>Therefore remember thy creator.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <closer>
+               <signed>William Cotes.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Imprinted at London by <hi>Iohn Charlewood, dwelling in</hi> Bar<g ref="char:EOLhyphen"/>bican, at the Signe of the halfe <hi>Eagle and the keie.</hi>
+            </p>
+            <p>
+               <figure>
+                  <head>POST <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ENEBRAS LVX</head>
+               </figure>
+            </p>
+            <pb facs="tcp:11553:38"/>
+         </div>
+      </back>
+   </text>
+</TEI>
